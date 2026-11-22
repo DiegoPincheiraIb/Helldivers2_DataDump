@@ -1,0 +1,974 @@
+{
+    "AiSquadComponentData": {
+        "items": [
+            {
+                "unique_id": "17664573392975623128",
+                "uid_name": "17664573392975623128",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "8089720719317653430",
+                "uid_name": "8089720719317653430",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 8261922003134896957,
+                        "amount": 3,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 1155202780614770422,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 3939129929398354246,
+                        "amount": 1,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "1992162250168776749",
+                "uid_name": "1992162250168776749",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 13707236614338800569,
+                        "amount": 3,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 3626558530581732572,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 15358116161893188517,
+                        "amount": 1,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 4399458158766252490,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "4355611497043427857",
+                "uid_name": "4355611497043427857",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 5903841343181520462,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 13707236614338800569,
+                        "amount": 4,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 1909471264691872944,
+                        "amount": 1,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "18026303320000477595",
+                "uid_name": "18026303320000477595",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 772289455772672652,
+                        "amount": 1,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 11768477327318910982,
+                        "amount": 3,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 11781875241940413332,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "5102465671637479928",
+                "uid_name": "5102465671637479928",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 5903841343181520462,
+                        "amount": 5,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 13707236614338800569,
+                        "amount": 3,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 3626558530581732572,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "7920632755280539327",
+                "uid_name": "7920632755280539327",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 15125779956101896786,
+                        "amount": 1,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 4399458158766252490,
+                        "amount": 4,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "204075488202026058",
+                "uid_name": "204075488202026058",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 7208293264043292125,
+                        "amount": 6,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "7071263804549863663",
+                "uid_name": "7071263804549863663",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 4618830856548850870,
+                        "amount": 7,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 12566139334605762628,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "15449825944902538280",
+                "uid_name": "15449825944902538280",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 4618830856548850870,
+                        "amount": 10,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 6041739005686103399,
+                        "amount": 1,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "9360053548772838040",
+                "uid_name": "9360053548772838040",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 4618830856548850870,
+                        "amount": 4,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 12566139334605762628,
+                        "amount": 1,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "5979346451618917988",
+                "uid_name": "5979346451618917988",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 11351366836276126990,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 8388657151297660569,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 14677717390494571578,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 720026069039790444,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "15556644074895863910",
+                "uid_name": "15556644074895863910",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 4618830856548850870,
+                        "amount": 8,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 11351366836276126990,
+                        "amount": 1,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "13202130782662256331",
+                "uid_name": "13202130782662256331",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 8710323923067153479,
+                        "amount": 5,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "13274334118188383069",
+                "uid_name": "13274334118188383069",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 8710323923067153479,
+                        "amount": 12,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "11252740735486831418",
+                "uid_name": "11252740735486831418",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 8710323923067153479,
+                        "amount": 24,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "4530977122738801241",
+                "uid_name": "4530977122738801241",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 8710323923067153479,
+                        "amount": 32,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "5261323557917310789",
+                "uid_name": "5261323557917310789",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 8500519467319350019,
+                        "amount": 1,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 13617855600110100742,
+                        "amount": 1,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 13814167941378577880,
+                        "amount": 1,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 1460639142923993241,
+                        "amount": 1,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 8500519467319350019,
+                        "amount": 1,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 13814167941378577880,
+                        "amount": 1,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "11468466565339394853",
+                "uid_name": "11468466565339394853",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 5385448928519479034,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 5555647998940836938,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 3836043307793934489,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 7712844951779243309,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 3754586476635072036,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 14706222259390606723,
+                        "amount": 2,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "17326341331337146169",
+                "uid_name": "17326341331337146169",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 3836043307793934489,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 7712844951779243309,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 3754586476635072036,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 14706222259390606723,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 16507283781696478269,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 10665281465322007152,
+                        "amount": 2,
+                        "node": 0
+                    }
+                ]
+            },
+            {
+                "unique_id": "15438562609689892369",
+                "uid_name": "15438562609689892369",
+                "replenish_members_on_exit_ghost": 0,
+                "squad_type": "SquadType_None",
+                "cohesion_multiplier": 0.039999999,
+                "catch_up_start_distance": 0.0,
+                "catch_up_stop_distance": 0.0,
+                "squad_members": [
+                    {
+                        "member_path": 8500519467319350019,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 13814167941378577880,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 1460639142923993241,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 13617855600110100742,
+                        "amount": 2,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    },
+                    {
+                        "member_path": 0,
+                        "amount": 0,
+                        "node": 0
+                    }
+                ]
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "17664573392975623128",
+                "type": "17664573392975623128"
+            },
+            {
+                "idx": 1,
+                "uid": "8089720719317653430",
+                "type": "8089720719317653430"
+            },
+            {
+                "idx": 2,
+                "uid": "1992162250168776749",
+                "type": "1992162250168776749"
+            },
+            {
+                "idx": 3,
+                "uid": "4355611497043427857",
+                "type": "4355611497043427857"
+            },
+            {
+                "idx": 4,
+                "uid": "18026303320000477595",
+                "type": "18026303320000477595"
+            },
+            {
+                "idx": 5,
+                "uid": "5102465671637479928",
+                "type": "5102465671637479928"
+            },
+            {
+                "idx": 6,
+                "uid": "7920632755280539327",
+                "type": "7920632755280539327"
+            },
+            {
+                "idx": 7,
+                "uid": "204075488202026058",
+                "type": "204075488202026058"
+            },
+            {
+                "idx": 8,
+                "uid": "7071263804549863663",
+                "type": "7071263804549863663"
+            },
+            {
+                "idx": 9,
+                "uid": "15449825944902538280",
+                "type": "15449825944902538280"
+            },
+            {
+                "idx": 10,
+                "uid": "9360053548772838040",
+                "type": "9360053548772838040"
+            },
+            {
+                "idx": 11,
+                "uid": "5979346451618917988",
+                "type": "5979346451618917988"
+            },
+            {
+                "idx": 12,
+                "uid": "15556644074895863910",
+                "type": "15556644074895863910"
+            },
+            {
+                "idx": 13,
+                "uid": "13202130782662256331",
+                "type": "13202130782662256331"
+            },
+            {
+                "idx": 14,
+                "uid": "13274334118188383069",
+                "type": "13274334118188383069"
+            },
+            {
+                "idx": 15,
+                "uid": "11252740735486831418",
+                "type": "11252740735486831418"
+            },
+            {
+                "idx": 16,
+                "uid": "4530977122738801241",
+                "type": "4530977122738801241"
+            },
+            {
+                "idx": 17,
+                "uid": "5261323557917310789",
+                "type": "5261323557917310789"
+            },
+            {
+                "idx": 18,
+                "uid": "11468466565339394853",
+                "type": "11468466565339394853"
+            },
+            {
+                "idx": 19,
+                "uid": "17326341331337146169",
+                "type": "17326341331337146169"
+            },
+            {
+                "idx": 20,
+                "uid": "15438562609689892369",
+                "type": "15438562609689892369"
+            }
+        ]
+    }
+}

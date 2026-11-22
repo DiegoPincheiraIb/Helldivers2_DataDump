@@ -1,0 +1,3847 @@
+[
+    {
+        "LevelGenerationSettings": {
+            "unknown_000": 16.0,
+            "unknown_004": 40.0,
+            "vista_start_fade_distance_multiplier": 0.60546875,
+            "vista_end_fade_distance_multiplier": 0.6640625,
+            "unknown_014": 0.600000024,
+            "unknown_018": 0.800000012,
+            "flattening_location_min_distance_bias": 10.0,
+            "flattening_location_min_distance_factor": 0.875,
+            "non_flattening_location_min_distance_bias": 1.5,
+            "non_flattening_location_min_distance_factor": 0.100000001,
+            "location_playable_area_bias_factor": 0.425000012,
+            "location_playable_area_offset": 12.0,
+            "war_layer_threshold": 0.0,
+            "war_layer_random_offset": 0.0,
+            "stamp_flatten_factor": 32.0,
+            "outside_playable_area_culling_screen_size_weight": 1.0,
+            "horde_playable_distance": 1.0,
+            "detailed_distance": 174.0,
+            "water_safe_height": 0.5,
+            "full_fade_height_variance": 2.0,
+            "full_fade_radius_factor": 1.799999952,
+            "unknown_058": 11837447748259032519,
+            "unknown_060": 1,
+            "exploration_settings": {
+                "distance_between_locations": 20.0,
+                "fill_rate": 1.0,
+                "spawn_layers": [
+                    {
+                        "layer_to_spawn": 1641360298,
+                        "min_to_spawn": 3,
+                        "max_to_spawn": 3,
+                        "priority": 1,
+                        "min_difficulty": 4,
+                        "max_difficulty": 15
+                    },
+                    {
+                        "layer_to_spawn": 1755739661,
+                        "min_to_spawn": 1,
+                        "max_to_spawn": 1,
+                        "priority": 1,
+                        "min_difficulty": 6,
+                        "max_difficulty": 15
+                    },
+                    {
+                        "layer_to_spawn": 1707045958,
+                        "min_to_spawn": 8,
+                        "max_to_spawn": 8,
+                        "priority": 2,
+                        "min_difficulty": 15,
+                        "max_difficulty": 15
+                    },
+                    {
+                        "layer_to_spawn": 2900246166,
+                        "min_to_spawn": 0,
+                        "max_to_spawn": 15,
+                        "priority": 3,
+                        "min_difficulty": 15,
+                        "max_difficulty": 15
+                    }
+                ],
+                "spawn_limits": [
+                    {
+                        "location_sub_category": 2502742549,
+                        "max_amount": 4
+                    }
+                ]
+            },
+            "cache_loot_tables": [
+                {
+                    "id": 170774890,
+                    "chance": 15,
+                    "min_difficulty": -1,
+                    "max_difficulty": -1,
+                    "max_packages_allowed": 4,
+                    "entries": [
+                        {
+                            "entity_path": 12008625947668001407,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.300000012,
+                                "y": -0.090000004,
+                                "z": 0.029999999
+                            },
+                            "spawn_offset_rot": {
+                                "x": -90.0,
+                                "y": 0.0,
+                                "z": 90.0
+                            }
+                        },
+                        {
+                            "entity_path": 9927421484392399367,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.5,
+                                "y": 0.0,
+                                "z": 0.059999999
+                            },
+                            "spawn_offset_rot": {
+                                "x": 0.0,
+                                "y": 5.0,
+                                "z": 90.0
+                            }
+                        },
+                        {
+                            "entity_path": 4155583896232633279,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.400000006,
+                                "y": 0.090000004,
+                                "z": 0.039999999
+                            },
+                            "spawn_offset_rot": {
+                                "x": -90.0,
+                                "y": 0.0,
+                                "z": 90.0
+                            }
+                        },
+                        {
+                            "entity_path": 10871298989420119782,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.150000006
+                            },
+                            "spawn_offset_rot": {
+                                "x": -90.0,
+                                "y": 0.0,
+                                "z": 90.0
+                            }
+                        },
+                        {
+                            "entity_path": 1279722939363854678,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.300000012,
+                                "y": -0.090000004,
+                                "z": 0.029999999
+                            },
+                            "spawn_offset_rot": {
+                                "x": -90.0,
+                                "y": 0.0,
+                                "z": 90.0
+                            }
+                        },
+                        {
+                            "entity_path": 3358853937828503136,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.300000012,
+                                "y": -0.090000004,
+                                "z": 0.079999998
+                            },
+                            "spawn_offset_rot": {
+                                "x": -90.0,
+                                "y": 0.0,
+                                "z": 90.0
+                            }
+                        },
+                        {
+                            "entity_path": 15369542005276747891,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": -0.029999999,
+                                "y": -0.129999995,
+                                "z": 0.029999999
+                            },
+                            "spawn_offset_rot": {
+                                "x": -90.0,
+                                "y": 0.0,
+                                "z": 90.0
+                            }
+                        },
+                        {
+                            "entity_path": 2714034314705433838,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.0,
+                                "y": 0.180000007,
+                                "z": 0.079999998
+                            },
+                            "spawn_offset_rot": {
+                                "x": -90.0,
+                                "y": -12.0,
+                                "z": 90.0
+                            }
+                        },
+                        {
+                            "entity_path": 211331680192206384,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.050000001
+                            },
+                            "spawn_offset_rot": {
+                                "x": -90.0,
+                                "y": 0.0,
+                                "z": 90.0
+                            }
+                        },
+                        {
+                            "entity_path": 9264801226655597011,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": -0.170000002,
+                                "y": -0.150000006,
+                                "z": 0.079999998
+                            },
+                            "spawn_offset_rot": {
+                                "x": -90.0,
+                                "y": 0.0,
+                                "z": 90.0
+                            }
+                        },
+                        {
+                            "entity_path": 5910727434981086692,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.200000003,
+                                "y": 0.0,
+                                "z": 0.079999998
+                            },
+                            "spawn_offset_rot": {
+                                "x": -90.0,
+                                "y": 0.0,
+                                "z": 90.0
+                            }
+                        },
+                        {
+                            "entity_path": 1353568197974522460,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": -0.02,
+                                "y": -0.059999999,
+                                "z": 0.079999998
+                            },
+                            "spawn_offset_rot": {
+                                "x": -90.0,
+                                "y": 0.0,
+                                "z": -180.0
+                            }
+                        },
+                        {
+                            "entity_path": 6468799106264970105,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": -0.02,
+                                "y": -0.059999999,
+                                "z": 0.079999998
+                            },
+                            "spawn_offset_rot": {
+                                "x": -90.0,
+                                "y": 0.0,
+                                "z": -180.0
+                            }
+                        },
+                        {
+                            "entity_path": 5690760409550920280,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.100000001
+                            },
+                            "spawn_offset_rot": {
+                                "x": 0.0,
+                                "y": 90.0,
+                                "z": 90.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1215402291,
+                    "chance": 0,
+                    "min_difficulty": -1,
+                    "max_difficulty": -1,
+                    "max_packages_allowed": -1,
+                    "entries": []
+                },
+                {
+                    "id": 3610838851,
+                    "chance": 20,
+                    "min_difficulty": -1,
+                    "max_difficulty": 3,
+                    "max_packages_allowed": -1,
+                    "entries": [
+                        {
+                            "entity_path": 9333151595628803334,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "spawn_offset_rot": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 90.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 2831276514,
+                    "chance": 20,
+                    "min_difficulty": 4,
+                    "max_difficulty": 7,
+                    "max_packages_allowed": -1,
+                    "entries": [
+                        {
+                            "entity_path": 9333151595628803334,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "spawn_offset_rot": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 90.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 3917669152,
+                    "chance": 20,
+                    "min_difficulty": 8,
+                    "max_difficulty": -1,
+                    "max_packages_allowed": -1,
+                    "entries": [
+                        {
+                            "entity_path": 9333151595628803334,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "spawn_offset_rot": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 90.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 933012742,
+                    "chance": -1,
+                    "min_difficulty": -1,
+                    "max_difficulty": -1,
+                    "max_packages_allowed": -1,
+                    "entries": [
+                        {
+                            "entity_path": 1476012537193590664,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.01
+                            },
+                            "spawn_offset_rot": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 180.0
+                            }
+                        },
+                        {
+                            "entity_path": 7742303829890335551,
+                            "min_difficulty": -1,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "spawn_offset_rot": {
+                                "x": 90.0,
+                                "y": 90.0,
+                                "z": 0.0
+                            }
+                        },
+                        {
+                            "entity_path": 16068287307180393021,
+                            "min_difficulty": 4,
+                            "max_difficulty": -1,
+                            "race_type": "RaceType_None",
+                            "spawn_offset_pos": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.129999995
+                            },
+                            "spawn_offset_rot": {
+                                "x": 0.0,
+                                "y": 65.0,
+                                "z": 125.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1041568452,
+                    "chance": 0,
+                    "min_difficulty": -1,
+                    "max_difficulty": -1,
+                    "max_packages_allowed": -1,
+                    "entries": []
+                }
+            ],
+            "unknown_0A0": [
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                3,
+                1,
+                1,
+                1,
+                3,
+                1,
+                1,
+                2,
+                3,
+                1,
+                1,
+                2,
+                3,
+                0,
+                0,
+                0,
+                0
+            ],
+            "unknown_100": [
+                {
+                    "unknown_000": 0,
+                    "unknown_008": 0.25,
+                    "unknown_00C": 0.349999994
+                },
+                {
+                    "unknown_000": 0,
+                    "unknown_008": 0.25,
+                    "unknown_00C": 0.349999994
+                },
+                {
+                    "unknown_000": 10393933192150708193,
+                    "unknown_008": 0.5,
+                    "unknown_00C": 0.699999988
+                },
+                {
+                    "unknown_000": 8999401129407689903,
+                    "unknown_008": 0.25,
+                    "unknown_00C": 0.5
+                },
+                {
+                    "unknown_000": 9623948221967705715,
+                    "unknown_008": 0.449999988,
+                    "unknown_00C": 0.649999976
+                },
+                {
+                    "unknown_000": 0,
+                    "unknown_008": 0.25,
+                    "unknown_00C": 0.349999994
+                }
+            ],
+            "unknown_160": [
+                {
+                    "unknown_000": "s_curves",
+                    "unknown_008": [
+                        {
+                            "unknown_000": 1521.417724609,
+                            "unknown_004": 193.766098022
+                        },
+                        {
+                            "unknown_000": 1738.531616211,
+                            "unknown_004": 199.148483276
+                        },
+                        {
+                            "unknown_000": 1939.442993164,
+                            "unknown_004": 188.383712769
+                        },
+                        {
+                            "unknown_000": 1983.189819336,
+                            "unknown_004": 497.87121582
+                        },
+                        {
+                            "unknown_000": 1996.151855469,
+                            "unknown_004": 793.902770996
+                        },
+                        {
+                            "unknown_000": 1996.151855469,
+                            "unknown_004": 1108.772705078
+                        },
+                        {
+                            "unknown_000": 1981.569580078,
+                            "unknown_004": 1412.877807617
+                        },
+                        {
+                            "unknown_000": 1934.582275391,
+                            "unknown_004": 1856.925048828
+                        },
+                        {
+                            "unknown_000": 1702.886108398,
+                            "unknown_004": 2034.544067383
+                        },
+                        {
+                            "unknown_000": 1727.189819336,
+                            "unknown_004": 1803.101196289
+                        },
+                        {
+                            "unknown_000": 1804.962036133,
+                            "unknown_004": 1488.231323242
+                        },
+                        {
+                            "unknown_000": 1804.962036133,
+                            "unknown_004": 1246.023681641
+                        },
+                        {
+                            "unknown_000": 1824.405029297,
+                            "unknown_004": 1057.639892578
+                        },
+                        {
+                            "unknown_000": 1817.924072266,
+                            "unknown_004": 842.344299316
+                        },
+                        {
+                            "unknown_000": 1519.797485352,
+                            "unknown_004": 1883.837036133
+                        },
+                        {
+                            "unknown_000": 1576.506347656,
+                            "unknown_004": 1695.453369141
+                        },
+                        {
+                            "unknown_000": 1628.354370117,
+                            "unknown_004": 1488.231323242
+                        },
+                        {
+                            "unknown_000": 1367.493652344,
+                            "unknown_004": 2026.470458984
+                        },
+                        {
+                            "unknown_000": 103.696205139,
+                            "unknown_004": 1983.411254883
+                        },
+                        {
+                            "unknown_000": 413.164550781,
+                            "unknown_004": 2034.544067383
+                        },
+                        {
+                            "unknown_000": 576.810119629,
+                            "unknown_004": 2010.323242188
+                        },
+                        {
+                            "unknown_000": 748.556945801,
+                            "unknown_004": 1999.55847168
+                        },
+                        {
+                            "unknown_000": 933.265808105,
+                            "unknown_004": 2013.014404297
+                        },
+                        {
+                            "unknown_000": 63.189872742,
+                            "unknown_004": 1754.659667969
+                        },
+                        {
+                            "unknown_000": 48.607593536,
+                            "unknown_004": 1445.172119141
+                        },
+                        {
+                            "unknown_000": 38.886074066,
+                            "unknown_004": 1162.596557617
+                        },
+                        {
+                            "unknown_000": 40.506328583,
+                            "unknown_004": 796.593933105
+                        },
+                        {
+                            "unknown_000": 50.227848053,
+                            "unknown_004": 495.180023193
+                        },
+                        {
+                            "unknown_000": 50.227848053,
+                            "unknown_004": 228.751647949
+                        },
+                        {
+                            "unknown_000": 306.227844238,
+                            "unknown_004": 228.751647949
+                        },
+                        {
+                            "unknown_000": 560.60760498,
+                            "unknown_004": 83.427070618
+                        },
+                        {
+                            "unknown_000": 876.556945801,
+                            "unknown_004": 34.985546112
+                        },
+                        {
+                            "unknown_000": 270.519287109,
+                            "unknown_004": 1822.457641602
+                        },
+                        {
+                            "unknown_000": 288.748840332,
+                            "unknown_004": 1646.439086914
+                        },
+                        {
+                            "unknown_000": 379.814758301,
+                            "unknown_004": 1830.331298828
+                        },
+                        {
+                            "unknown_000": 381.869873047,
+                            "unknown_004": 1653.383300781
+                        },
+                        {
+                            "unknown_000": 491.793365479,
+                            "unknown_004": 1826.828491211
+                        },
+                        {
+                            "unknown_000": 472.757049561,
+                            "unknown_004": 1650.895385742
+                        },
+                        {
+                            "unknown_000": 603.702636719,
+                            "unknown_004": 1808.210205078
+                        },
+                        {
+                            "unknown_000": 558.298950195,
+                            "unknown_004": 1637.174072266
+                        },
+                        {
+                            "unknown_000": 714.513671875,
+                            "unknown_004": 1769.830688477
+                        },
+                        {
+                            "unknown_000": 638.14465332,
+                            "unknown_004": 1610.197875977
+                        },
+                        {
+                            "unknown_000": 817.24206543,
+                            "unknown_004": 1709.512207031
+                        },
+                        {
+                            "unknown_000": 710.057861328,
+                            "unknown_004": 1568.706054688
+                        },
+                        {
+                            "unknown_000": 905.028625488,
+                            "unknown_004": 1630.622680664
+                        },
+                        {
+                            "unknown_000": 773.175720215,
+                            "unknown_004": 1512.598754883
+                        },
+                        {
+                            "unknown_000": 975.752563477,
+                            "unknown_004": 1540.290771484
+                        },
+                        {
+                            "unknown_000": 827.649780273,
+                            "unknown_004": 1443.438232422
+                        },
+                        {
+                            "unknown_000": 1032.129638672,
+                            "unknown_004": 1444.586914062
+                        },
+                        {
+                            "unknown_000": 874.587097168,
+                            "unknown_004": 1363.994140625
+                        },
+                        {
+                            "unknown_000": 1077.665161133,
+                            "unknown_004": 1348.773681641
+                        },
+                        {
+                            "unknown_000": 915.170288086,
+                            "unknown_004": 1278.700683594
+                        },
+                        {
+                            "unknown_000": 1117.04296875,
+                            "unknown_004": 1253.405761719
+                        },
+                        {
+                            "unknown_000": 952.312438965,
+                            "unknown_004": 1188.762939453
+                        },
+                        {
+                            "unknown_000": 1153.82434082,
+                            "unknown_004": 1158.547485352
+                        },
+                        {
+                            "unknown_000": 988.798217773,
+                            "unknown_004": 1094.662963867
+                        },
+                        {
+                            "unknown_000": 1190.296020508,
+                            "unknown_004": 1066.237304688
+                        },
+                        {
+                            "unknown_000": 1026.815551758,
+                            "unknown_004": 998.495178223
+                        },
+                        {
+                            "unknown_000": 1228.48840332,
+                            "unknown_004": 978.571472168
+                        },
+                        {
+                            "unknown_000": 1068.810913086,
+                            "unknown_004": 902.296203613
+                        },
+                        {
+                            "unknown_000": 1271.074584961,
+                            "unknown_004": 896.025695801
+                        },
+                        {
+                            "unknown_000": 1118.609008789,
+                            "unknown_004": 806.197692871
+                        },
+                        {
+                            "unknown_000": 1319.924682617,
+                            "unknown_004": 821.046813965
+                        },
+                        {
+                            "unknown_000": 1179.899291992,
+                            "unknown_004": 712.844665527
+                        },
+                        {
+                            "unknown_000": 1377.081298828,
+                            "unknown_004": 755.669616699
+                        },
+                        {
+                            "unknown_000": 1256.812988281,
+                            "unknown_004": 625.860656738
+                        },
+                        {
+                            "unknown_000": 1442.66394043,
+                            "unknown_004": 703.038269043
+                        },
+                        {
+                            "unknown_000": 1349.116333008,
+                            "unknown_004": 552.82611084
+                        },
+                        {
+                            "unknown_000": 1517.978759766,
+                            "unknown_004": 663.472900391
+                        },
+                        {
+                            "unknown_000": 1454.732177734,
+                            "unknown_004": 498.201202393
+                        },
+                        {
+                            "unknown_000": 1601.315917969,
+                            "unknown_004": 637.576538086
+                        },
+                        {
+                            "unknown_000": 1566.391357422,
+                            "unknown_004": 464.097076416
+                        },
+                        {
+                            "unknown_000": 1689.240356445,
+                            "unknown_004": 624.382019043
+                        },
+                        {
+                            "unknown_000": 1677.469360352,
+                            "unknown_004": 447.813934326
+                        },
+                        {
+                            "unknown_000": 1780.909423828,
+                            "unknown_004": 621.7265625
+                        },
+                        {
+                            "unknown_000": 1787.389160156,
+                            "unknown_004": 444.885253906
+                        },
+                        {
+                            "unknown_000": 1150.520141602,
+                            "unknown_004": 1950.336791992
+                        },
+                        {
+                            "unknown_000": 1042.544799805,
+                            "unknown_004": 1810.136352539
+                        },
+                        {
+                            "unknown_000": 1236.546875,
+                            "unknown_004": 1871.565795898
+                        },
+                        {
+                            "unknown_000": 1104.696533203,
+                            "unknown_004": 1753.53894043
+                        },
+                        {
+                            "unknown_000": 1306.64074707,
+                            "unknown_004": 1782.430419922
+                        },
+                        {
+                            "unknown_000": 1159.821899414,
+                            "unknown_004": 1683.642333984
+                        },
+                        {
+                            "unknown_000": 1363.558837891,
+                            "unknown_004": 1688.957519531
+                        },
+                        {
+                            "unknown_000": 1207.728271484,
+                            "unknown_004": 1605.102783203
+                        },
+                        {
+                            "unknown_000": 1411.138427734,
+                            "unknown_004": 1593.319580078
+                        },
+                        {
+                            "unknown_000": 1249.824951172,
+                            "unknown_004": 1520.567871094
+                        },
+                        {
+                            "unknown_000": 1452.131225586,
+                            "unknown_004": 1496.750610352
+                        },
+                        {
+                            "unknown_000": 1287.483764648,
+                            "unknown_004": 1431.896362305
+                        },
+                        {
+                            "unknown_000": 1488.580200195,
+                            "unknown_004": 1400.137695312
+                        },
+                        {
+                            "unknown_000": 1322.013061523,
+                            "unknown_004": 1340.386230469
+                        },
+                        {
+                            "unknown_000": 1522.102416992,
+                            "unknown_004": 1304.440673828
+                        },
+                        {
+                            "unknown_000": 1354.692016602,
+                            "unknown_004": 1247.094238281
+                        },
+                        {
+                            "unknown_000": 1554.510986328,
+                            "unknown_004": 1209.830810547
+                        },
+                        {
+                            "unknown_000": 1387.328857422,
+                            "unknown_004": 1151.822509766
+                        },
+                        {
+                            "unknown_000": 1587.400756836,
+                            "unknown_004": 1118.098999023
+                        },
+                        {
+                            "unknown_000": 1422.050415039,
+                            "unknown_004": 1055.05871582
+                        },
+                        {
+                            "unknown_000": 1623.309814453,
+                            "unknown_004": 1031.565063477
+                        },
+                        {
+                            "unknown_000": 1463.649169922,
+                            "unknown_004": 955.254516602
+                        },
+                        {
+                            "unknown_000": 1663.220092773,
+                            "unknown_004": 961.768859863
+                        },
+                        {
+                            "unknown_000": 1524.576782227,
+                            "unknown_004": 851.801208496
+                        },
+                        {
+                            "unknown_000": 353.136688232,
+                            "unknown_004": 1483.372802734
+                        },
+                        {
+                            "unknown_000": 307.838104248,
+                            "unknown_004": 1312.308837891
+                        },
+                        {
+                            "unknown_000": 464.6121521,
+                            "unknown_004": 1442.800292969
+                        },
+                        {
+                            "unknown_000": 384.529937744,
+                            "unknown_004": 1284.997558594
+                        },
+                        {
+                            "unknown_000": 565.754760742,
+                            "unknown_004": 1379.53527832
+                        },
+                        {
+                            "unknown_000": 455.619628906,
+                            "unknown_004": 1241.025024414
+                        },
+                        {
+                            "unknown_000": 650.166259766,
+                            "unknown_004": 1301.672363281
+                        },
+                        {
+                            "unknown_000": 518.933959961,
+                            "unknown_004": 1182.958740234
+                        },
+                        {
+                            "unknown_000": 720.813598633,
+                            "unknown_004": 1214.317993164
+                        },
+                        {
+                            "unknown_000": 576.029418945,
+                            "unknown_004": 1112.571411133
+                        },
+                        {
+                            "unknown_000": 779.971862793,
+                            "unknown_004": 1122.84375
+                        },
+                        {
+                            "unknown_000": 627.02935791,
+                            "unknown_004": 1033.830078125
+                        },
+                        {
+                            "unknown_000": 830.742431641,
+                            "unknown_004": 1030.338256836
+                        },
+                        {
+                            "unknown_000": 673.092041016,
+                            "unknown_004": 949.95690918
+                        },
+                        {
+                            "unknown_000": 876.31817627,
+                            "unknown_004": 937.564331055
+                        },
+                        {
+                            "unknown_000": 716.183898926,
+                            "unknown_004": 862.252563477
+                        },
+                        {
+                            "unknown_000": 919.186218262,
+                            "unknown_004": 844.917602539
+                        },
+                        {
+                            "unknown_000": 758.21685791,
+                            "unknown_004": 771.407836914
+                        },
+                        {
+                            "unknown_000": 960.726806641,
+                            "unknown_004": 754.447814941
+                        },
+                        {
+                            "unknown_000": 800.43762207,
+                            "unknown_004": 679.466369629
+                        },
+                        {
+                            "unknown_000": 1002.901306152,
+                            "unknown_004": 666.797424316
+                        },
+                        {
+                            "unknown_000": 845.063171387,
+                            "unknown_004": 586.785095215
+                        },
+                        {
+                            "unknown_000": 1047.574462891,
+                            "unknown_004": 583.242736816
+                        },
+                        {
+                            "unknown_000": 894.809997559,
+                            "unknown_004": 493.923980713
+                        },
+                        {
+                            "unknown_000": 1096.562988281,
+                            "unknown_004": 506.095581055
+                        },
+                        {
+                            "unknown_000": 953.385498047,
+                            "unknown_004": 402.100219727
+                        },
+                        {
+                            "unknown_000": 1151.563354492,
+                            "unknown_004": 438.931121826
+                        },
+                        {
+                            "unknown_000": 1026.222290039,
+                            "unknown_004": 314.013458252
+                        },
+                        {
+                            "unknown_000": 1213.504272461,
+                            "unknown_004": 386.667114258
+                        },
+                        {
+                            "unknown_000": 1119.590209961,
+                            "unknown_004": 236.683898926
+                        },
+                        {
+                            "unknown_000": 1282.594970703,
+                            "unknown_004": 353.484619141
+                        },
+                        {
+                            "unknown_000": 1233.935058594,
+                            "unknown_004": 183.346252441
+                        },
+                        {
+                            "unknown_000": 351.328674316,
+                            "unknown_004": 1053.921386719
+                        },
+                        {
+                            "unknown_000": 194.541641235,
+                            "unknown_004": 971.868469238
+                        },
+                        {
+                            "unknown_000": 397.81741333,
+                            "unknown_004": 965.088134766
+                        },
+                        {
+                            "unknown_000": 241.030426025,
+                            "unknown_004": 883.03527832
+                        },
+                        {
+                            "unknown_000": 444.327941895,
+                            "unknown_004": 876.213195801
+                        },
+                        {
+                            "unknown_000": 287.540405273,
+                            "unknown_004": 794.161437988
+                        },
+                        {
+                            "unknown_000": 490.850738525,
+                            "unknown_004": 787.315307617
+                        },
+                        {
+                            "unknown_000": 334.06350708,
+                            "unknown_004": 705.262939453
+                        },
+                        {
+                            "unknown_000": 537.378234863,
+                            "unknown_004": 698.40814209
+                        },
+                        {
+                            "unknown_000": 380.589599609,
+                            "unknown_004": 616.358459473
+                        },
+                        {
+                            "unknown_000": 583.899719238,
+                            "unknown_004": 609.512329102
+                        },
+                        {
+                            "unknown_000": 427.11138916,
+                            "unknown_004": 527.462036133
+                        },
+                        {
+                            "unknown_000": 630.406982422,
+                            "unknown_004": 520.643859863
+                        },
+                        {
+                            "unknown_000": 473.619262695,
+                            "unknown_004": 438.592346191
+                        },
+                        {
+                            "unknown_000": 676.892089844,
+                            "unknown_004": 431.817749023
+                        },
+                        {
+                            "unknown_000": 520.103149414,
+                            "unknown_004": 349.768554688
+                        }
+                    ]
+                },
+                {
+                    "unknown_000": "stripes",
+                    "unknown_008": [
+                        {
+                            "unknown_000": 725.873413086,
+                            "unknown_004": 2013.014160156
+                        },
+                        {
+                            "unknown_000": 947.848083496,
+                            "unknown_004": 2004.940917969
+                        },
+                        {
+                            "unknown_000": 1393.417724609,
+                            "unknown_004": 94.191856384
+                        },
+                        {
+                            "unknown_000": 1625.113891602,
+                            "unknown_004": 209.913269043
+                        },
+                        {
+                            "unknown_000": 1851.94934082,
+                            "unknown_004": 341.781860352
+                        },
+                        {
+                            "unknown_000": 1080.708862305,
+                            "unknown_004": 24.220762253
+                        },
+                        {
+                            "unknown_000": 714.531616211,
+                            "unknown_004": 61.897502899
+                        },
+                        {
+                            "unknown_000": 934.091552734,
+                            "unknown_004": 1868.034790039
+                        },
+                        {
+                            "unknown_000": 730.072265625,
+                            "unknown_004": 1834.853637695
+                        },
+                        {
+                            "unknown_000": 950.262390137,
+                            "unknown_004": 1768.443603516
+                        },
+                        {
+                            "unknown_000": 746.234924316,
+                            "unknown_004": 1735.3125
+                        },
+                        {
+                            "unknown_000": 966.684387207,
+                            "unknown_004": 1667.653686523
+                        },
+                        {
+                            "unknown_000": 762.71282959,
+                            "unknown_004": 1634.180053711
+                        },
+                        {
+                            "unknown_000": 983.47845459,
+                            "unknown_004": 1566.145751953
+                        },
+                        {
+                            "unknown_000": 779.62701416,
+                            "unknown_004": 1531.948242188
+                        },
+                        {
+                            "unknown_000": 1000.762451172,
+                            "unknown_004": 1464.409301758
+                        },
+                        {
+                            "unknown_000": 797.100952148,
+                            "unknown_004": 1429.098022461
+                        },
+                        {
+                            "unknown_000": 1018.654174805,
+                            "unknown_004": 1362.932250977
+                        },
+                        {
+                            "unknown_000": 815.259521484,
+                            "unknown_004": 1326.115356445
+                        },
+                        {
+                            "unknown_000": 1037.267456055,
+                            "unknown_004": 1262.212158203
+                        },
+                        {
+                            "unknown_000": 834.230102539,
+                            "unknown_004": 1223.473144531
+                        },
+                        {
+                            "unknown_000": 1056.714111328,
+                            "unknown_004": 1162.74987793
+                        },
+                        {
+                            "unknown_000": 854.143310547,
+                            "unknown_004": 1121.64074707
+                        },
+                        {
+                            "unknown_000": 1077.102294922,
+                            "unknown_004": 1065.051757812
+                        },
+                        {
+                            "unknown_000": 875.132995605,
+                            "unknown_004": 1021.082763672
+                        },
+                        {
+                            "unknown_000": 1098.53515625,
+                            "unknown_004": 969.632507324
+                        },
+                        {
+                            "unknown_000": 897.33782959,
+                            "unknown_004": 922.25604248
+                        },
+                        {
+                            "unknown_000": 1121.109863281,
+                            "unknown_004": 877.012023926
+                        },
+                        {
+                            "unknown_000": 920.902770996,
+                            "unknown_004": 825.61126709
+                        },
+                        {
+                            "unknown_000": 945.982299805,
+                            "unknown_004": 731.588806152
+                        },
+                        {
+                            "unknown_000": 1147.638061523,
+                            "unknown_004": 778.03125
+                        },
+                        {
+                            "unknown_000": 972.743041992,
+                            "unknown_004": 640.616394043
+                        },
+                        {
+                            "unknown_000": 1176.268554688,
+                            "unknown_004": 682.384338379
+                        },
+                        {
+                            "unknown_000": 1005.782165527,
+                            "unknown_004": 540.46887207
+                        },
+                        {
+                            "unknown_000": 1207.676025391,
+                            "unknown_004": 589.721374512
+                        },
+                        {
+                            "unknown_000": 1042.209106445,
+                            "unknown_004": 444.011993408
+                        },
+                        {
+                            "unknown_000": 1244.795776367,
+                            "unknown_004": 495.159576416
+                        },
+                        {
+                            "unknown_000": 1081.925537109,
+                            "unknown_004": 353.512420654
+                        },
+                        {
+                            "unknown_000": 1286.490234375,
+                            "unknown_004": 406.180419922
+                        },
+                        {
+                            "unknown_000": 1126.184204102,
+                            "unknown_004": 268.290679932
+                        },
+                        {
+                            "unknown_000": 1334.0078125,
+                            "unknown_004": 324.412750244
+                        },
+                        {
+                            "unknown_000": 1183.233642578,
+                            "unknown_004": 179.049743652
+                        },
+                        {
+                            "unknown_000": 1665.438476562,
+                            "unknown_004": 424.755584717
+                        },
+                        {
+                            "unknown_000": 1740.350341797,
+                            "unknown_004": 617.403198242
+                        },
+                        {
+                            "unknown_000": 1573.669921875,
+                            "unknown_004": 478.709197998
+                        },
+                        {
+                            "unknown_000": 1666.171630859,
+                            "unknown_004": 676.563903809
+                        },
+                        {
+                            "unknown_000": 1500.140869141,
+                            "unknown_004": 552.833984375
+                        },
+                        {
+                            "unknown_000": 1442.967773438,
+                            "unknown_004": 631.702087402
+                        },
+                        {
+                            "unknown_000": 1607.311523438,
+                            "unknown_004": 758.621704102
+                        },
+                        {
+                            "unknown_000": 1390.398681641,
+                            "unknown_004": 722.333007812
+                        },
+                        {
+                            "unknown_000": 1560.088500977,
+                            "unknown_004": 844.461364746
+                        },
+                        {
+                            "unknown_000": 1346.331298828,
+                            "unknown_004": 813.195556641
+                        },
+                        {
+                            "unknown_000": 1518.982055664,
+                            "unknown_004": 934.496276855
+                        },
+                        {
+                            "unknown_000": 1306.025756836,
+                            "unknown_004": 909.84375
+                        },
+                        {
+                            "unknown_000": 1484.421875,
+                            "unknown_004": 1022.517578125
+                        },
+                        {
+                            "unknown_000": 1272.263916016,
+                            "unknown_004": 1002.374450684
+                        },
+                        {
+                            "unknown_000": 1452.028808594,
+                            "unknown_004": 1116.900512695
+                        },
+                        {
+                            "unknown_000": 1241.670166016,
+                            "unknown_004": 1097.073120117
+                        },
+                        {
+                            "unknown_000": 1424.540649414,
+                            "unknown_004": 1207.803100586
+                        },
+                        {
+                            "unknown_000": 1213.144897461,
+                            "unknown_004": 1196.725708008
+                        },
+                        {
+                            "unknown_000": 1398.884887695,
+                            "unknown_004": 1303.7734375
+                        },
+                        {
+                            "unknown_000": 1189.654541016,
+                            "unknown_004": 1289.116210938
+                        },
+                        {
+                            "unknown_000": 1375.291503906,
+                            "unknown_004": 1404.267822266
+                        },
+                        {
+                            "unknown_000": 1166.758911133,
+                            "unknown_004": 1390.851318359
+                        },
+                        {
+                            "unknown_000": 1355.476928711,
+                            "unknown_004": 1500.884887695
+                        },
+                        {
+                            "unknown_000": 1146.517578125,
+                            "unknown_004": 1493.807617188
+                        },
+                        {
+                            "unknown_000": 1337.789306641,
+                            "unknown_004": 1600.497924805
+                        },
+                        {
+                            "unknown_000": 1130.290771484,
+                            "unknown_004": 1588.889770508
+                        },
+                        {
+                            "unknown_000": 1322.393432617,
+                            "unknown_004": 1702.690673828
+                        },
+                        {
+                            "unknown_000": 1116.062744141,
+                            "unknown_004": 1685.993286133
+                        },
+                        {
+                            "unknown_000": 1310.630371094,
+                            "unknown_004": 1796.528076172
+                        },
+                        {
+                            "unknown_000": 1103.946411133,
+                            "unknown_004": 1784.851806641
+                        },
+                        {
+                            "unknown_000": 1300.970458984,
+                            "unknown_004": 1891.817260742
+                        },
+                        {
+                            "unknown_000": 1094.055908203,
+                            "unknown_004": 1885.198242188
+                        },
+                        {
+                            "unknown_000": 1293.527587891,
+                            "unknown_004": 1988.255493164
+                        },
+                        {
+                            "unknown_000": 1086.506225586,
+                            "unknown_004": 1986.76953125
+                        },
+                        {
+                            "unknown_000": 601.352600098,
+                            "unknown_004": 1865.072387695
+                        },
+                        {
+                            "unknown_000": 519.418395996,
+                            "unknown_004": 2054.83984375
+                        },
+                        {
+                            "unknown_000": 438.258575439,
+                            "unknown_004": 2005.133789062
+                        },
+                        {
+                            "unknown_000": 371.772064209,
+                            "unknown_004": 1932.337158203
+                        },
+                        {
+                            "unknown_000": 531.829162598,
+                            "unknown_004": 1800.429443359
+                        },
+                        {
+                            "unknown_000": 319.376220703,
+                            "unknown_004": 1843.397094727
+                        },
+                        {
+                            "unknown_000": 487.095397949,
+                            "unknown_004": 1711.758544922
+                        },
+                        {
+                            "unknown_000": 281.500305176,
+                            "unknown_004": 1752.318969727
+                        },
+                        {
+                            "unknown_000": 456.224060059,
+                            "unknown_004": 1620.609619141
+                        },
+                        {
+                            "unknown_000": 250.903579712,
+                            "unknown_004": 1653.820678711
+                        },
+                        {
+                            "unknown_000": 432.943939209,
+                            "unknown_004": 1528.194458008
+                        },
+                        {
+                            "unknown_000": 228.227874756,
+                            "unknown_004": 1559.481323242
+                        },
+                        {
+                            "unknown_000": 413.486083984,
+                            "unknown_004": 1427.825439453
+                        },
+                        {
+                            "unknown_000": 209.579238892,
+                            "unknown_004": 1461.69140625
+                        },
+                        {
+                            "unknown_000": 194.639556885,
+                            "unknown_004": 1363.794067383
+                        },
+                        {
+                            "unknown_000": 398.11428833,
+                            "unknown_004": 1326.02355957
+                        },
+                        {
+                            "unknown_000": 182.245620728,
+                            "unknown_004": 1262.49987793
+                        },
+                        {
+                            "unknown_000": 386.609069824,
+                            "unknown_004": 1229.729003906
+                        },
+                        {
+                            "unknown_000": 172.127670288,
+                            "unknown_004": 1158.614013672
+                        },
+                        {
+                            "unknown_000": 377.14263916,
+                            "unknown_004": 1130.068237305
+                        },
+                        {
+                            "unknown_000": 164.035568237,
+                            "unknown_004": 1052.971435547
+                        },
+                        {
+                            "unknown_000": 369.533813477,
+                            "unknown_004": 1028.03527832
+                        },
+                        {
+                            "unknown_000": 158.350402832,
+                            "unknown_004": 958.283691406
+                        },
+                        {
+                            "unknown_000": 363.590209961,
+                            "unknown_004": 924.604492188
+                        },
+                        {
+                            "unknown_000": 153.915206909,
+                            "unknown_004": 863.495361328
+                        },
+                        {
+                            "unknown_000": 359.112182617,
+                            "unknown_004": 820.733764648
+                        },
+                        {
+                            "unknown_000": 150.221694946,
+                            "unknown_004": 757.509887695
+                        },
+                        {
+                            "unknown_000": 355.89541626,
+                            "unknown_004": 717.370239258
+                        },
+                        {
+                            "unknown_000": 147.685577393,
+                            "unknown_004": 653.073669434
+                        },
+                        {
+                            "unknown_000": 353.732666016,
+                            "unknown_004": 615.449035645
+                        },
+                        {
+                            "unknown_000": 146.08605957,
+                            "unknown_004": 551.088928223
+                        },
+                        {
+                            "unknown_000": 352.414337158,
+                            "unknown_004": 515.897460938
+                        },
+                        {
+                            "unknown_000": 145.203781128,
+                            "unknown_004": 452.466430664
+                        },
+                        {
+                            "unknown_000": 351.72958374,
+                            "unknown_004": 419.632232666
+                        },
+                        {
+                            "unknown_000": 144.799621582,
+                            "unknown_004": 347.951446533
+                        },
+                        {
+                            "unknown_000": 351.451660156,
+                            "unknown_004": 315.647735596
+                        },
+                        {
+                            "unknown_000": 144.71307373,
+                            "unknown_004": 246.248199463
+                        },
+                        {
+                            "unknown_000": 351.402740479,
+                            "unknown_004": 212.851974487
+                        },
+                        {
+                            "unknown_000": 144.631591797,
+                            "unknown_004": 149.750579834
+                        },
+                        {
+                            "unknown_000": 641.100219727,
+                            "unknown_004": 208.592498779
+                        },
+                        {
+                            "unknown_000": 839.838256836,
+                            "unknown_004": 265.408477783
+                        },
+                        {
+                            "unknown_000": 615.464782715,
+                            "unknown_004": 303.191314697
+                        },
+                        {
+                            "unknown_000": 813.321472168,
+                            "unknown_004": 363.88180542
+                        },
+                        {
+                            "unknown_000": 592.188232422,
+                            "unknown_004": 400.402984619
+                        },
+                        {
+                            "unknown_000": 789.322814941,
+                            "unknown_004": 466.180145264
+                        },
+                        {
+                            "unknown_000": 571.110778809,
+                            "unknown_004": 500.275482178
+                        },
+                        {
+                            "unknown_000": 769.745910645,
+                            "unknown_004": 561.579284668
+                        },
+                        {
+                            "unknown_000": 553.64074707,
+                            "unknown_004": 593.892822266
+                        },
+                        {
+                            "unknown_000": 752.171813965,
+                            "unknown_004": 658.947875977
+                        },
+                        {
+                            "unknown_000": 538.162536621,
+                            "unknown_004": 687.201171875
+                        },
+                        {
+                            "unknown_000": 736.231567383,
+                            "unknown_004": 759.489746094
+                        },
+                        {
+                            "unknown_000": 524.072509766,
+                            "unknown_004": 782.74597168
+                        },
+                        {
+                            "unknown_000": 721.807128906,
+                            "unknown_004": 863.248962402
+                        },
+                        {
+                            "unknown_000": 511.263580322,
+                            "unknown_004": 880.570922852
+                        },
+                        {
+                            "unknown_000": 710.022094727,
+                            "unknown_004": 959.41619873
+                        },
+                        {
+                            "unknown_000": 499.629333496,
+                            "unknown_004": 980.721618652
+                        },
+                        {
+                            "unknown_000": 699.278564453,
+                            "unknown_004": 1058.252075195
+                        },
+                        {
+                            "unknown_000": 489.20489502,
+                            "unknown_004": 1081.803466797
+                        },
+                        {
+                            "unknown_000": 689.356750488,
+                            "unknown_004": 1161.217407227
+                        },
+                        {
+                            "unknown_000": 479.849151611,
+                            "unknown_004": 1183.76171875
+                        },
+                        {
+                            "unknown_000": 680.673095703,
+                            "unknown_004": 1262.584472656
+                        },
+                        {
+                            "unknown_000": 672.716308594,
+                            "unknown_004": 1366.559448242
+                        },
+                        {
+                            "unknown_000": 666.106079102,
+                            "unknown_004": 1462.388183594
+                        },
+                        {
+                            "unknown_000": 659.952392578,
+                            "unknown_004": 1560.369384766
+                        },
+                        {
+                            "unknown_000": 1685.930541992,
+                            "unknown_004": 2020.745361328
+                        },
+                        {
+                            "unknown_000": 1486.311401367,
+                            "unknown_004": 1967.106689453
+                        },
+                        {
+                            "unknown_000": 1710.455200195,
+                            "unknown_004": 1929.473754883
+                        },
+                        {
+                            "unknown_000": 1510.834594727,
+                            "unknown_004": 1875.840698242
+                        },
+                        {
+                            "unknown_000": 1734.988037109,
+                            "unknown_004": 1838.170532227
+                        },
+                        {
+                            "unknown_000": 1535.368652344,
+                            "unknown_004": 1784.532592773
+                        },
+                        {
+                            "unknown_000": 1759.530517578,
+                            "unknown_004": 1746.833007812
+                        },
+                        {
+                            "unknown_000": 1559.909912109,
+                            "unknown_004": 1693.200195312
+                        },
+                        {
+                            "unknown_000": 1784.076660156,
+                            "unknown_004": 1655.48034668
+                        },
+                        {
+                            "unknown_000": 1584.458007812,
+                            "unknown_004": 1601.840454102
+                        },
+                        {
+                            "unknown_000": 1808.628295898,
+                            "unknown_004": 1564.107788086
+                        },
+                        {
+                            "unknown_000": 1609.008911133,
+                            "unknown_004": 1510.469848633
+                        },
+                        {
+                            "unknown_000": 1833.182861328,
+                            "unknown_004": 1472.725708008
+                        },
+                        {
+                            "unknown_000": 1633.561767578,
+                            "unknown_004": 1419.094116211
+                        },
+                        {
+                            "unknown_000": 1857.736083984,
+                            "unknown_004": 1381.346679688
+                        },
+                        {
+                            "unknown_000": 1658.115722656,
+                            "unknown_004": 1327.712402344
+                        },
+                        {
+                            "unknown_000": 1882.287353516,
+                            "unknown_004": 1289.975097656
+                        },
+                        {
+                            "unknown_000": 1682.668212891,
+                            "unknown_004": 1236.336425781
+                        },
+                        {
+                            "unknown_000": 1906.8359375,
+                            "unknown_004": 1198.614379883
+                        },
+                        {
+                            "unknown_000": 1707.216552734,
+                            "unknown_004": 1144.976928711
+                        },
+                        {
+                            "unknown_000": 1931.377929688,
+                            "unknown_004": 1107.277099609
+                        },
+                        {
+                            "unknown_000": 1731.759765625,
+                            "unknown_004": 1053.635253906
+                        },
+                        {
+                            "unknown_000": 1955.913696289,
+                            "unknown_004": 1015.964294434
+                        },
+                        {
+                            "unknown_000": 1756.294799805,
+                            "unknown_004": 962.325256348
+                        },
+                        {
+                            "unknown_000": 1980.439575195,
+                            "unknown_004": 924.687683105
+                        },
+                        {
+                            "unknown_000": 1780.82043457,
+                            "unknown_004": 871.049377441
+                        }
+                    ]
+                },
+                {
+                    "unknown_000": "grid",
+                    "unknown_008": [
+                        {
+                            "unknown_000": 1929.721557617,
+                            "unknown_004": 804.667541504
+                        },
+                        {
+                            "unknown_000": 1978.329101562,
+                            "unknown_004": 613.592651367
+                        },
+                        {
+                            "unknown_000": 1978.329101562,
+                            "unknown_004": 250.281204224
+                        },
+                        {
+                            "unknown_000": 1801.721557617,
+                            "unknown_004": 96.883049011
+                        },
+                        {
+                            "unknown_000": 1646.177246094,
+                            "unknown_004": 16.147174835
+                        },
+                        {
+                            "unknown_000": 2028.557006836,
+                            "unknown_004": 1407.495361328
+                        },
+                        {
+                            "unknown_000": 1915.139282227,
+                            "unknown_004": 1563.584716797
+                        },
+                        {
+                            "unknown_000": 1800.101318359,
+                            "unknown_004": 1730.438842773
+                        },
+                        {
+                            "unknown_000": 1683.442993164,
+                            "unknown_004": 1878.454711914
+                        },
+                        {
+                            "unknown_000": 1571.645629883,
+                            "unknown_004": 2007.632080078
+                        },
+                        {
+                            "unknown_000": 1.620252967,
+                            "unknown_004": 662.034179688
+                        },
+                        {
+                            "unknown_000": 124.759490967,
+                            "unknown_004": 524.783203125
+                        },
+                        {
+                            "unknown_000": 231.69619751,
+                            "unknown_004": 368.693817139
+                        },
+                        {
+                            "unknown_000": 340.253173828,
+                            "unknown_004": 252.972412109
+                        },
+                        {
+                            "unknown_000": 450.430389404,
+                            "unknown_004": 115.721420288
+                        },
+                        {
+                            "unknown_000": 14.582278252,
+                            "unknown_004": 1733.130126953
+                        },
+                        {
+                            "unknown_000": 9.72151947,
+                            "unknown_004": 1281.009155273
+                        },
+                        {
+                            "unknown_000": 129.620254517,
+                            "unknown_004": 1835.395507812
+                        },
+                        {
+                            "unknown_000": 228.455703735,
+                            "unknown_004": 1956.499389648
+                        },
+                        {
+                            "unknown_000": 358.075958252,
+                            "unknown_004": 2007.632080078
+                        },
+                        {
+                            "unknown_000": 900.860717773,
+                            "unknown_004": 1636.247070312
+                        },
+                        {
+                            "unknown_000": 981.873413086,
+                            "unknown_004": 1507.069702148
+                        },
+                        {
+                            "unknown_000": 1059.645629883,
+                            "unknown_004": 1404.804199219
+                        },
+                        {
+                            "unknown_000": 1135.797485352,
+                            "unknown_004": 1286.391601562
+                        },
+                        {
+                            "unknown_000": 1208.708862305,
+                            "unknown_004": 1189.508544922
+                        },
+                        {
+                            "unknown_000": 1288.101318359,
+                            "unknown_004": 1081.860717773
+                        },
+                        {
+                            "unknown_000": 1352.911376953,
+                            "unknown_004": 979.595275879
+                        },
+                        {
+                            "unknown_000": 1424.202514648,
+                            "unknown_004": 890.785827637
+                        },
+                        {
+                            "unknown_000": 1139.037963867,
+                            "unknown_004": 2021.088012695
+                        },
+                        {
+                            "unknown_000": 743.401000977,
+                            "unknown_004": 1613.221679688
+                        },
+                        {
+                            "unknown_000": 603.047119141,
+                            "unknown_004": 1513.799316406
+                        },
+                        {
+                            "unknown_000": 796.233764648,
+                            "unknown_004": 1538.641235352
+                        },
+                        {
+                            "unknown_000": 655.882568359,
+                            "unknown_004": 1439.215209961
+                        },
+                        {
+                            "unknown_000": 849.088134766,
+                            "unknown_004": 1464.03112793
+                        },
+                        {
+                            "unknown_000": 708.735107422,
+                            "unknown_004": 1364.607543945
+                        },
+                        {
+                            "unknown_000": 901.956176758,
+                            "unknown_004": 1389.401367188
+                        },
+                        {
+                            "unknown_000": 761.603759766,
+                            "unknown_004": 1289.977050781
+                        },
+                        {
+                            "unknown_000": 954.833862305,
+                            "unknown_004": 1314.756958008
+                        },
+                        {
+                            "unknown_000": 814.483398438,
+                            "unknown_004": 1215.329956055
+                        },
+                        {
+                            "unknown_000": 1007.721801758,
+                            "unknown_004": 1240.100097656
+                        },
+                        {
+                            "unknown_000": 867.368286133,
+                            "unknown_004": 1140.677246094
+                        },
+                        {
+                            "unknown_000": 1060.610473633,
+                            "unknown_004": 1165.440673828
+                        },
+                        {
+                            "unknown_000": 920.258178711,
+                            "unknown_004": 1066.016113281
+                        },
+                        {
+                            "unknown_000": 1113.498657227,
+                            "unknown_004": 1090.782226562
+                        },
+                        {
+                            "unknown_000": 973.147338867,
+                            "unknown_004": 991.356445312
+                        },
+                        {
+                            "unknown_000": 1166.38293457,
+                            "unknown_004": 1016.129516602
+                        },
+                        {
+                            "unknown_000": 1026.03112793,
+                            "unknown_004": 916.704467773
+                        },
+                        {
+                            "unknown_000": 1219.258422852,
+                            "unknown_004": 941.489013672
+                        },
+                        {
+                            "unknown_000": 1078.90637207,
+                            "unknown_004": 842.064331055
+                        },
+                        {
+                            "unknown_000": 1272.12121582,
+                            "unknown_004": 866.866638184
+                        },
+                        {
+                            "unknown_000": 1131.769165039,
+                            "unknown_004": 767.441711426
+                        },
+                        {
+                            "unknown_000": 1324.967407227,
+                            "unknown_004": 792.26763916
+                        },
+                        {
+                            "unknown_000": 1184.615600586,
+                            "unknown_004": 692.842468262
+                        },
+                        {
+                            "unknown_000": 1377.79284668,
+                            "unknown_004": 717.697814941
+                        },
+                        {
+                            "unknown_000": 1237.44152832,
+                            "unknown_004": 618.271789551
+                        },
+                        {
+                            "unknown_000": 1131.99597168,
+                            "unknown_004": 1849.705200195
+                        },
+                        {
+                            "unknown_000": 990.75592041,
+                            "unknown_004": 1751.546020508
+                        },
+                        {
+                            "unknown_000": 1184.082519531,
+                            "unknown_004": 1774.757324219
+                        },
+                        {
+                            "unknown_000": 1042.841796875,
+                            "unknown_004": 1676.598876953
+                        },
+                        {
+                            "unknown_000": 1236.187744141,
+                            "unknown_004": 1699.781738281
+                        },
+                        {
+                            "unknown_000": 1094.948486328,
+                            "unknown_004": 1601.621337891
+                        },
+                        {
+                            "unknown_000": 1288.309692383,
+                            "unknown_004": 1624.783081055
+                        },
+                        {
+                            "unknown_000": 1147.068969727,
+                            "unknown_004": 1526.62487793
+                        },
+                        {
+                            "unknown_000": 1340.442138672,
+                            "unknown_004": 1549.769042969
+                        },
+                        {
+                            "unknown_000": 1199.199462891,
+                            "unknown_004": 1451.613525391
+                        },
+                        {
+                            "unknown_000": 1392.578979492,
+                            "unknown_004": 1474.748291016
+                        },
+                        {
+                            "unknown_000": 1251.337524414,
+                            "unknown_004": 1376.591064453
+                        },
+                        {
+                            "unknown_000": 1444.717651367,
+                            "unknown_004": 1399.724731445
+                        },
+                        {
+                            "unknown_000": 1303.47644043,
+                            "unknown_004": 1301.567016602
+                        },
+                        {
+                            "unknown_000": 1496.852783203,
+                            "unknown_004": 1324.706542969
+                        },
+                        {
+                            "unknown_000": 1355.612792969,
+                            "unknown_004": 1226.547119141
+                        },
+                        {
+                            "unknown_000": 1548.981445312,
+                            "unknown_004": 1249.697875977
+                        },
+                        {
+                            "unknown_000": 1407.740234375,
+                            "unknown_004": 1151.540161133
+                        },
+                        {
+                            "unknown_000": 1601.09777832,
+                            "unknown_004": 1174.706787109
+                        },
+                        {
+                            "unknown_000": 1459.854858398,
+                            "unknown_004": 1076.551513672
+                        },
+                        {
+                            "unknown_000": 1653.195922852,
+                            "unknown_004": 1099.741821289
+                        },
+                        {
+                            "unknown_000": 1511.953735352,
+                            "unknown_004": 1001.585571289
+                        },
+                        {
+                            "unknown_000": 1705.270996094,
+                            "unknown_004": 1024.809448242
+                        },
+                        {
+                            "unknown_000": 1564.031738281,
+                            "unknown_004": 926.649169922
+                        },
+                        {
+                            "unknown_000": 467.882537842,
+                            "unknown_004": 1334.634033203
+                        },
+                        {
+                            "unknown_000": 329.039703369,
+                            "unknown_004": 1233.112304688
+                        },
+                        {
+                            "unknown_000": 522.124206543,
+                            "unknown_004": 1260.452636719
+                        },
+                        {
+                            "unknown_000": 383.281860352,
+                            "unknown_004": 1158.930175781
+                        },
+                        {
+                            "unknown_000": 576.386962891,
+                            "unknown_004": 1186.242431641
+                        },
+                        {
+                            "unknown_000": 437.545013428,
+                            "unknown_004": 1084.719482422
+                        },
+                        {
+                            "unknown_000": 630.66607666,
+                            "unknown_004": 1112.010498047
+                        },
+                        {
+                            "unknown_000": 491.822814941,
+                            "unknown_004": 1010.489257812
+                        },
+                        {
+                            "unknown_000": 684.955383301,
+                            "unknown_004": 1037.763671875
+                        },
+                        {
+                            "unknown_000": 546.111633301,
+                            "unknown_004": 936.243164062
+                        },
+                        {
+                            "unknown_000": 739.250244141,
+                            "unknown_004": 963.510009766
+                        },
+                        {
+                            "unknown_000": 600.407348633,
+                            "unknown_004": 861.98828125
+                        },
+                        {
+                            "unknown_000": 793.546691895,
+                            "unknown_004": 889.25378418
+                        },
+                        {
+                            "unknown_000": 654.703796387,
+                            "unknown_004": 787.732055664
+                        },
+                        {
+                            "unknown_000": 847.839111328,
+                            "unknown_004": 815.003173828
+                        },
+                        {
+                            "unknown_000": 708.996826172,
+                            "unknown_004": 713.48059082
+                        },
+                        {
+                            "unknown_000": 902.123535156,
+                            "unknown_004": 740.763427734
+                        },
+                        {
+                            "unknown_000": 763.280517578,
+                            "unknown_004": 639.24206543
+                        },
+                        {
+                            "unknown_000": 956.393127441,
+                            "unknown_004": 666.543945312
+                        },
+                        {
+                            "unknown_000": 817.551696777,
+                            "unknown_004": 565.020263672
+                        },
+                        {
+                            "unknown_000": 1010.645690918,
+                            "unknown_004": 592.347900391
+                        },
+                        {
+                            "unknown_000": 871.803039551,
+                            "unknown_004": 490.825897217
+                        },
+                        {
+                            "unknown_000": 1752.008789062,
+                            "unknown_004": 760.023071289
+                        },
+                        {
+                            "unknown_000": 1643.844238281,
+                            "unknown_004": 893.755737305
+                        },
+                        {
+                            "unknown_000": 1680.493408203,
+                            "unknown_004": 702.179992676
+                        },
+                        {
+                            "unknown_000": 1572.327880859,
+                            "unknown_004": 835.911804199
+                        },
+                        {
+                            "unknown_000": 1608.947998047,
+                            "unknown_004": 644.3125
+                        },
+                        {
+                            "unknown_000": 1500.782714844,
+                            "unknown_004": 778.044677734
+                        },
+                        {
+                            "unknown_000": 1537.382202148,
+                            "unknown_004": 586.428649902
+                        },
+                        {
+                            "unknown_000": 1429.216674805,
+                            "unknown_004": 720.160583496
+                        },
+                        {
+                            "unknown_000": 1465.802734375,
+                            "unknown_004": 528.533508301
+                        },
+                        {
+                            "unknown_000": 1357.638183594,
+                            "unknown_004": 662.266296387
+                        },
+                        {
+                            "unknown_000": 1394.218261719,
+                            "unknown_004": 470.634460449
+                        },
+                        {
+                            "unknown_000": 1286.053466797,
+                            "unknown_004": 604.367004395
+                        },
+                        {
+                            "unknown_000": 1322.635498047,
+                            "unknown_004": 412.736816406
+                        },
+                        {
+                            "unknown_000": 1214.471435547,
+                            "unknown_004": 546.469848633
+                        },
+                        {
+                            "unknown_000": 1251.063842773,
+                            "unknown_004": 354.848083496
+                        },
+                        {
+                            "unknown_000": 1142.89855957,
+                            "unknown_004": 488.58026123
+                        },
+                        {
+                            "unknown_000": 1179.509643555,
+                            "unknown_004": 296.973571777
+                        },
+                        {
+                            "unknown_000": 1071.344604492,
+                            "unknown_004": 430.705871582
+                        },
+                        {
+                            "unknown_000": 1107.981689453,
+                            "unknown_004": 239.120300293
+                        },
+                        {
+                            "unknown_000": 999.816345215,
+                            "unknown_004": 372.852294922
+                        },
+                        {
+                            "unknown_000": 165.225357056,
+                            "unknown_004": 1498.654541016
+                        },
+                        {
+                            "unknown_000": 268.446136475,
+                            "unknown_004": 1361.070068359
+                        },
+                        {
+                            "unknown_000": 238.457794189,
+                            "unknown_004": 1553.595458984
+                        },
+                        {
+                            "unknown_000": 341.678436279,
+                            "unknown_004": 1416.010986328
+                        },
+                        {
+                            "unknown_000": 311.720245361,
+                            "unknown_004": 1608.559326172
+                        },
+                        {
+                            "unknown_000": 414.940460205,
+                            "unknown_004": 1470.974365234
+                        },
+                        {
+                            "unknown_000": 385.003753662,
+                            "unknown_004": 1663.538696289
+                        },
+                        {
+                            "unknown_000": 488.223114014,
+                            "unknown_004": 1525.95324707
+                        },
+                        {
+                            "unknown_000": 458.300079346,
+                            "unknown_004": 1718.52746582
+                        },
+                        {
+                            "unknown_000": 561.520507812,
+                            "unknown_004": 1580.942749023
+                        },
+                        {
+                            "unknown_000": 531.602783203,
+                            "unknown_004": 1773.521362305
+                        },
+                        {
+                            "unknown_000": 634.823730469,
+                            "unknown_004": 1635.937133789
+                        },
+                        {
+                            "unknown_000": 604.904174805,
+                            "unknown_004": 1828.514404297
+                        },
+                        {
+                            "unknown_000": 708.124389648,
+                            "unknown_004": 1690.929443359
+                        },
+                        {
+                            "unknown_000": 678.195129395,
+                            "unknown_004": 1883.499267578
+                        },
+                        {
+                            "unknown_000": 781.41583252,
+                            "unknown_004": 1745.914794922
+                        },
+                        {
+                            "unknown_000": 751.468322754,
+                            "unknown_004": 1938.470947266
+                        },
+                        {
+                            "unknown_000": 854.68939209,
+                            "unknown_004": 1800.88671875
+                        },
+                        {
+                            "unknown_000": 824.715637207,
+                            "unknown_004": 1993.423217773
+                        },
+                        {
+                            "unknown_000": 927.937438965,
+                            "unknown_004": 1855.839477539
+                        },
+                        {
+                            "unknown_000": 897.92956543,
+                            "unknown_004": 2048.350585938
+                        },
+                        {
+                            "unknown_000": 1001.151367188,
+                            "unknown_004": 1910.766845703
+                        },
+                        {
+                            "unknown_000": 1173.7734375,
+                            "unknown_004": 120.398529053
+                        },
+                        {
+                            "unknown_000": 1277.688720703,
+                            "unknown_004": -16.662143707
+                        },
+                        {
+                            "unknown_000": 1246.733642578,
+                            "unknown_004": 175.715805054
+                        },
+                        {
+                            "unknown_000": 1350.649902344,
+                            "unknown_004": 38.655899048
+                        },
+                        {
+                            "unknown_000": 1319.725219727,
+                            "unknown_004": 231.056854248
+                        },
+                        {
+                            "unknown_000": 1423.642944336,
+                            "unknown_004": 93.998016357
+                        },
+                        {
+                            "unknown_000": 1392.739013672,
+                            "unknown_004": 286.414886475
+                        },
+                        {
+                            "unknown_000": 1496.655029297,
+                            "unknown_004": 149.354766846
+                        },
+                        {
+                            "unknown_000": 1465.763305664,
+                            "unknown_004": 341.780639648
+                        },
+                        {
+                            "unknown_000": 1569.681030273,
+                            "unknown_004": 204.721923828
+                        },
+                        {
+                            "unknown_000": 1538.790283203,
+                            "unknown_004": 397.148803711
+                        },
+                        {
+                            "unknown_000": 1642.708251953,
+                            "unknown_004": 260.090087891
+                        },
+                        {
+                            "unknown_000": 1611.809936523,
+                            "unknown_004": 452.511138916
+                        },
+                        {
+                            "unknown_000": 1715.727416992,
+                            "unknown_004": 315.45223999
+                        },
+                        {
+                            "unknown_000": 1684.812011719,
+                            "unknown_004": 507.860290527
+                        },
+                        {
+                            "unknown_000": 1788.729003906,
+                            "unknown_004": 370.800964355
+                        },
+                        {
+                            "unknown_000": 1757.786987305,
+                            "unknown_004": 563.189025879
+                        },
+                        {
+                            "unknown_000": 1861.702514648,
+                            "unknown_004": 426.128509521
+                        },
+                        {
+                            "unknown_000": 796.317871094,
+                            "unknown_004": 36.716400146
+                        },
+                        {
+                            "unknown_000": 934.356323242,
+                            "unknown_004": 139.329193115
+                        },
+                        {
+                            "unknown_000": 741.457092285,
+                            "unknown_004": 110.517913818
+                        },
+                        {
+                            "unknown_000": 879.495910645,
+                            "unknown_004": 213.130249023
+                        },
+                        {
+                            "unknown_000": 686.577941895,
+                            "unknown_004": 184.343933105
+                        },
+                        {
+                            "unknown_000": 824.617004395,
+                            "unknown_004": 286.955932617
+                        },
+                        {
+                            "unknown_000": 631.685180664,
+                            "unknown_004": 258.188690186
+                        },
+                        {
+                            "unknown_000": 769.722290039,
+                            "unknown_004": 360.803314209
+                        },
+                        {
+                            "unknown_000": 576.77935791,
+                            "unknown_004": 332.05078125
+                        },
+                        {
+                            "unknown_000": 714.81829834,
+                            "unknown_004": 434.662902832
+                        },
+                        {
+                            "unknown_000": 521.865722656,
+                            "unknown_004": 405.923248291
+                        },
+                        {
+                            "unknown_000": 659.905029297,
+                            "unknown_004": 508.534881592
+                        },
+                        {
+                            "unknown_000": 466.947387695,
+                            "unknown_004": 479.802246094
+                        },
+                        {
+                            "unknown_000": 604.986083984,
+                            "unknown_004": 582.414672852
+                        },
+                        {
+                            "unknown_000": 412.02633667,
+                            "unknown_004": 553.684631348
+                        },
+                        {
+                            "unknown_000": 550.065429688,
+                            "unknown_004": 656.296569824
+                        },
+                        {
+                            "unknown_000": 357.106872559,
+                            "unknown_004": 627.565063477
+                        },
+                        {
+                            "unknown_000": 495.145690918,
+                            "unknown_004": 730.177368164
+                        },
+                        {
+                            "unknown_000": 302.191741943,
+                            "unknown_004": 701.439758301
+                        },
+                        {
+                            "unknown_000": 440.230438232,
+                            "unknown_004": 804.052185059
+                        },
+                        {
+                            "unknown_000": 247.284133911,
+                            "unknown_004": 775.304138184
+                        },
+                        {
+                            "unknown_000": 385.322814941,
+                            "unknown_004": 877.916687012
+                        },
+                        {
+                            "unknown_000": 192.387390137,
+                            "unknown_004": 849.153991699
+                        },
+                        {
+                            "unknown_000": 330.425964355,
+                            "unknown_004": 951.766662598
+                        },
+                        {
+                            "unknown_000": 137.504333496,
+                            "unknown_004": 922.985412598
+                        },
+                        {
+                            "unknown_000": 275.543609619,
+                            "unknown_004": 1025.597167969
+                        },
+                        {
+                            "unknown_000": 82.638923645,
+                            "unknown_004": 996.79309082
+                        },
+                        {
+                            "unknown_000": 220.678192139,
+                            "unknown_004": 1099.404907227
+                        },
+                        {
+                            "unknown_000": 1876.106567383,
+                            "unknown_004": 975.391723633
+                        },
+                        {
+                            "unknown_000": 2018.542602539,
+                            "unknown_004": 1071.807495117
+                        },
+                        {
+                            "unknown_000": 1824.491088867,
+                            "unknown_004": 1051.642700195
+                        },
+                        {
+                            "unknown_000": 1966.927124023,
+                            "unknown_004": 1148.05847168
+                        },
+                        {
+                            "unknown_000": 1772.857666016,
+                            "unknown_004": 1127.920288086
+                        },
+                        {
+                            "unknown_000": 1915.293457031,
+                            "unknown_004": 1224.33605957
+                        },
+                        {
+                            "unknown_000": 1721.21105957,
+                            "unknown_004": 1204.217651367
+                        },
+                        {
+                            "unknown_000": 1863.644897461,
+                            "unknown_004": 1300.636352539
+                        },
+                        {
+                            "unknown_000": 1669.551757812,
+                            "unknown_004": 1280.532592773
+                        },
+                        {
+                            "unknown_000": 1811.987060547,
+                            "unknown_004": 1376.94909668
+                        },
+                        {
+                            "unknown_000": 1617.88671875,
+                            "unknown_004": 1356.857543945
+                        },
+                        {
+                            "unknown_000": 1760.321289062,
+                            "unknown_004": 1453.275268555
+                        },
+                        {
+                            "unknown_000": 1566.216308594,
+                            "unknown_004": 1433.188842773
+                        },
+                        {
+                            "unknown_000": 1708.651123047,
+                            "unknown_004": 1529.606079102
+                        },
+                        {
+                            "unknown_000": 1514.545166016,
+                            "unknown_004": 1509.521972656
+                        },
+                        {
+                            "unknown_000": 1656.981689453,
+                            "unknown_004": 1605.937011719
+                        },
+                        {
+                            "unknown_000": 1462.878662109,
+                            "unknown_004": 1585.848510742
+                        },
+                        {
+                            "unknown_000": 1605.313232422,
+                            "unknown_004": 1682.266235352
+                        },
+                        {
+                            "unknown_000": 1411.216552734,
+                            "unknown_004": 1662.16809082
+                        },
+                        {
+                            "unknown_000": 1553.653076172,
+                            "unknown_004": 1758.582885742
+                        },
+                        {
+                            "unknown_000": 1359.566894531,
+                            "unknown_004": 1738.469970703
+                        },
+                        {
+                            "unknown_000": 1502.000976562,
+                            "unknown_004": 1834.888427734
+                        },
+                        {
+                            "unknown_000": 1307.928588867,
+                            "unknown_004": 1814.754394531
+                        },
+                        {
+                            "unknown_000": 1450.36340332,
+                            "unknown_004": 1911.171630859
+                        },
+                        {
+                            "unknown_000": 1256.307128906,
+                            "unknown_004": 1891.014038086
+                        },
+                        {
+                            "unknown_000": 1398.743164062,
+                            "unknown_004": 1987.42980957
+                        }
+                    ]
+                }
+            ],
+            "unknown_170": [
+                {
+                    "unknown_000": 1,
+                    "unknown_018": [],
+                    "unknown_028": [
+                        {
+                            "unknown_000": 34
+                        }
+                    ]
+                },
+                {
+                    "unknown_000": 2,
+                    "unknown_018": [
+                        {
+                            "unknown_000": 34
+                        },
+                        {
+                            "unknown_000": 35
+                        }
+                    ],
+                    "unknown_028": []
+                },
+                {
+                    "unknown_000": 3,
+                    "unknown_018": [],
+                    "unknown_028": []
+                }
+            ],
+            "unknown_180": [
+                4294901761,
+                67108866,
+                134217731,
+                536870916,
+                1073741829,
+                268435462,
+                2097159,
+                131080,
+                2147483657,
+                2147418122,
+                4294901771
+            ],
+            "unknown_190": [
+                {
+                    "unknown_000": "horde_mode_1",
+                    "unknown_008": [
+                        {
+                            "unknown_000": 667.544250488,
+                            "unknown_004": 1243.332519531
+                        },
+                        {
+                            "unknown_000": 1574.886108398,
+                            "unknown_004": 799.28503418
+                        },
+                        {
+                            "unknown_000": 1145.519042969,
+                            "unknown_004": 1251.405883789
+                        },
+                        {
+                            "unknown_000": 372.658325195,
+                            "unknown_004": 906.932983398
+                        },
+                        {
+                            "unknown_000": 641.620178223,
+                            "unknown_004": 823.50592041
+                        },
+                        {
+                            "unknown_000": 1560.304077148,
+                            "unknown_004": 1162.596435547
+                        },
+                        {
+                            "unknown_000": 1796.860595703,
+                            "unknown_004": 1159.905273438
+                        },
+                        {
+                            "unknown_000": 644.860717773,
+                            "unknown_004": 1014.580810547
+                        },
+                        {
+                            "unknown_000": 1155.240478516,
+                            "unknown_004": 766.990783691
+                        },
+                        {
+                            "unknown_000": 1581.3671875,
+                            "unknown_004": 979.595214844
+                        },
+                        {
+                            "unknown_000": 1937.822753906,
+                            "unknown_004": 1359.053833008
+                        },
+                        {
+                            "unknown_000": 1615.392456055,
+                            "unknown_004": 522.09197998
+                        },
+                        {
+                            "unknown_000": 1432.303833008,
+                            "unknown_004": 239.516418457
+                        },
+                        {
+                            "unknown_000": 1129.31640625,
+                            "unknown_004": 83.427070618
+                        },
+                        {
+                            "unknown_000": 1947.544311523,
+                            "unknown_004": 761.608459473
+                        },
+                        {
+                            "unknown_000": 1688.303833008,
+                            "unknown_004": 236.82522583
+                        },
+                        {
+                            "unknown_000": 1936.202514648,
+                            "unknown_004": 180.310119629
+                        },
+                        {
+                            "unknown_000": 695.088623047,
+                            "unknown_004": 115.721290588
+                        },
+                        {
+                            "unknown_000": 1907.037963867,
+                            "unknown_004": 1620.099853516
+                        },
+                        {
+                            "unknown_000": 1783.898681641,
+                            "unknown_004": 1883.837036133
+                        },
+                        {
+                            "unknown_000": 1427.442993164,
+                            "unknown_004": 1899.98425293
+                        },
+                        {
+                            "unknown_000": 1069.36706543,
+                            "unknown_004": 1924.204956055
+                        },
+                        {
+                            "unknown_000": 716.151916504,
+                            "unknown_004": 1813.865966797
+                        },
+                        {
+                            "unknown_000": 456.911407471,
+                            "unknown_004": 1202.964599609
+                        },
+                        {
+                            "unknown_000": 259.240478516,
+                            "unknown_004": 1361.744995117
+                        },
+                        {
+                            "unknown_000": 226.835449219,
+                            "unknown_004": 1665.850219727
+                        },
+                        {
+                            "unknown_000": 131.240509033,
+                            "unknown_004": 1232.567626953
+                        },
+                        {
+                            "unknown_000": 231.69619751,
+                            "unknown_004": 998.433654785
+                        },
+                        {
+                            "unknown_000": 510.379760742,
+                            "unknown_004": 1913.440185547
+                        },
+                        {
+                            "unknown_000": 166.886062622,
+                            "unknown_004": 753.534790039
+                        },
+                        {
+                            "unknown_000": 215.493667603,
+                            "unknown_004": 75.353485107
+                        },
+                        {
+                            "unknown_000": 205.772155762,
+                            "unknown_004": 400.98815918
+                        },
+                        {
+                            "unknown_000": 1860.05065918,
+                            "unknown_004": 933.844970703
+                        },
+                        {
+                            "unknown_000": 411.130279541,
+                            "unknown_004": 721.10546875
+                        },
+                        {
+                            "unknown_000": 263.891937256,
+                            "unknown_004": 536.106201172
+                        },
+                        {
+                            "unknown_000": 512.187561035,
+                            "unknown_004": 654.652587891
+                        },
+                        {
+                            "unknown_000": 404.054992676,
+                            "unknown_004": 444.387969971
+                        },
+                        {
+                            "unknown_000": 628.13269043,
+                            "unknown_004": 605.051513672
+                        },
+                        {
+                            "unknown_000": 553.702026367,
+                            "unknown_004": 380.632415771
+                        },
+                        {
+                            "unknown_000": 754.293457031,
+                            "unknown_004": 571.00793457
+                        },
+                        {
+                            "unknown_000": 708.474121094,
+                            "unknown_004": 339.050048828
+                        },
+                        {
+                            "unknown_000": 885.309570312,
+                            "unknown_004": 551.453552246
+                        },
+                        {
+                            "unknown_000": 864.05859375,
+                            "unknown_004": 315.97052002
+                        },
+                        {
+                            "unknown_000": 1019.909179688,
+                            "unknown_004": 544.922912598
+                        },
+                        {
+                            "unknown_000": 1020.897705078,
+                            "unknown_004": 308.484985352
+                        },
+                        {
+                            "unknown_000": 1154.251953125,
+                            "unknown_004": 550.656860352
+                        },
+                        {
+                            "unknown_000": 1176.129882812,
+                            "unknown_004": 315.231201172
+                        },
+                        {
+                            "unknown_000": 1288.017456055,
+                            "unknown_004": 568.302307129
+                        },
+                        {
+                            "unknown_000": 1330.865356445,
+                            "unknown_004": 335.77722168
+                        },
+                        {
+                            "unknown_000": 1418.850952148,
+                            "unknown_004": 598.015258789
+                        },
+                        {
+                            "unknown_000": 1483.969116211,
+                            "unknown_004": 370.719238281
+                        },
+                        {
+                            "unknown_000": 1543.481933594,
+                            "unknown_004": 640.145507812
+                        },
+                        {
+                            "unknown_000": 1633.635253906,
+                            "unknown_004": 421.567657471
+                        },
+                        {
+                            "unknown_000": 1658.3203125,
+                            "unknown_004": 695.552246094
+                        },
+                        {
+                            "unknown_000": 1778.425292969,
+                            "unknown_004": 491.889160156
+                        },
+                        {
+                            "unknown_000": 1757.601074219,
+                            "unknown_004": 765.288818359
+                        },
+                        {
+                            "unknown_000": 1915.234619141,
+                            "unknown_004": 589.062988281
+                        },
+                        {
+                            "unknown_000": 1718.135742188,
+                            "unknown_004": 1348.470947266
+                        },
+                        {
+                            "unknown_000": 1835.585205078,
+                            "unknown_004": 1553.677001953
+                        },
+                        {
+                            "unknown_000": 1600.63671875,
+                            "unknown_004": 1408.852661133
+                        },
+                        {
+                            "unknown_000": 1695.577880859,
+                            "unknown_004": 1625.393676758
+                        },
+                        {
+                            "unknown_000": 1477.952880859,
+                            "unknown_004": 1455.446655273
+                        },
+                        {
+                            "unknown_000": 1546.891845703,
+                            "unknown_004": 1681.61315918
+                        },
+                        {
+                            "unknown_000": 1352.299194336,
+                            "unknown_004": 1486.421020508
+                        },
+                        {
+                            "unknown_000": 1392.450073242,
+                            "unknown_004": 1719.426879883
+                        },
+                        {
+                            "unknown_000": 1223.172485352,
+                            "unknown_004": 1501.022338867
+                        },
+                        {
+                            "unknown_000": 1232.180786133,
+                            "unknown_004": 1737.290649414
+                        },
+                        {
+                            "unknown_000": 1094.256958008,
+                            "unknown_004": 1498.264648438
+                        },
+                        {
+                            "unknown_000": 1071.470092773,
+                            "unknown_004": 1733.604003906
+                        },
+                        {
+                            "unknown_000": 966.641174316,
+                            "unknown_004": 1478.126098633
+                        },
+                        {
+                            "unknown_000": 912.462097168,
+                            "unknown_004": 1708.275024414
+                        },
+                        {
+                            "unknown_000": 842.909423828,
+                            "unknown_004": 1441.157958984
+                        },
+                        {
+                            "unknown_000": 758.881713867,
+                            "unknown_004": 1662.162841797
+                        },
+                        {
+                            "unknown_000": 724.631713867,
+                            "unknown_004": 1388.139648438
+                        },
+                        {
+                            "unknown_000": 612.782836914,
+                            "unknown_004": 1596.451171875
+                        },
+                        {
+                            "unknown_000": 613.698425293,
+                            "unknown_004": 1320.119140625
+                        },
+                        {
+                            "unknown_000": 476.235992432,
+                            "unknown_004": 1512.493652344
+                        }
+                    ]
+                }
+            ],
+            "unknown_1A0": [
+                {
+                    "unknown_000": "concentric_squares",
+                    "unknown_008": 1668181859,
+                    "unknown_00C": 8,
+                    "unknown_010": 1.0,
+                    "unknown_014": [
+                        50529027,
+                        50529027,
+                        33686275,
+                        33686018,
+                        16909059,
+                        33620225,
+                        16909059,
+                        33619968,
+                        16909059,
+                        33619968,
+                        16909059,
+                        33620225,
+                        33686275,
+                        33686018,
+                        50529027,
+                        50529027,
+                        3,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "unknown_000": "horizontal_stripe_4",
+                    "unknown_008": 1919903796,
+                    "unknown_00C": 4,
+                    "unknown_010": 1.0,
+                    "unknown_014": [
+                        50529027,
+                        33686019,
+                        16843010,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "unknown_000": "pac_man",
+                    "unknown_008": 1835229552,
+                    "unknown_00C": 16,
+                    "unknown_010": 1.0,
+                    "unknown_014": [
+                        16843011,
+                        16843009,
+                        33685761,
+                        50529027,
+                        16843011,
+                        16777217,
+                        33685761,
+                        50529027,
+                        16843011,
+                        16777216,
+                        33686017,
+                        50529027,
+                        65795,
+                        16842752,
+                        50463234,
+                        50529027,
+                        65795,
+                        33620224,
+                        50528770,
+                        50529027,
+                        16843011,
+                        33685761,
+                        50529026,
+                        50529027,
+                        16843011,
+                        33686017,
+                        50529027,
+                        50529027,
+                        16843011,
+                        50463233,
+                        50529027,
+                        50529027,
+                        16843011,
+                        50463233,
+                        50529027,
+                        50529027,
+                        16843011,
+                        33686017,
+                        50529027,
+                        50529027,
+                        16843011,
+                        33685761,
+                        50529026,
+                        50529027,
+                        16843011,
+                        33620225,
+                        50528770,
+                        50529027,
+                        16843011,
+                        16843009,
+                        50463234,
+                        50529027,
+                        16843011,
+                        16843009,
+                        33686017,
+                        50529027,
+                        16843011,
+                        16843009,
+                        33685761,
+                        50529027,
+                        16843011,
+                        16843009,
+                        33685761,
+                        50529027,
+                        3
+                    ]
+                },
+                {
+                    "unknown_000": "t-shaped",
+                    "unknown_008": 1634235252,
+                    "unknown_00C": 16,
+                    "unknown_010": 1.0,
+                    "unknown_014": [
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        33686019,
+                        33686018,
+                        33686018,
+                        50529026,
+                        33686019,
+                        33686018,
+                        33686018,
+                        50529026,
+                        16843011,
+                        16843009,
+                        33620225,
+                        50529026,
+                        16843011,
+                        16843009,
+                        33620225,
+                        50529026,
+                        259,
+                        16843008,
+                        33620225,
+                        50529026,
+                        259,
+                        16843008,
+                        33686018,
+                        50529026,
+                        259,
+                        16843008,
+                        50528770,
+                        50529027,
+                        259,
+                        16843008,
+                        50528770,
+                        50529027,
+                        16843011,
+                        16843009,
+                        50528770,
+                        50529027,
+                        16843011,
+                        16843009,
+                        50528770,
+                        50529027,
+                        16843011,
+                        16843009,
+                        50528770,
+                        50529027,
+                        16843011,
+                        16843009,
+                        50528770,
+                        50529027,
+                        3
+                    ]
+                },
+                {
+                    "unknown_000": "corner",
+                    "unknown_008": 1852993379,
+                    "unknown_00C": 16,
+                    "unknown_010": 1.0,
+                    "unknown_014": [
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        33686019,
+                        33686018,
+                        50463234,
+                        50529027,
+                        33686019,
+                        33686018,
+                        33686018,
+                        50529027,
+                        16843011,
+                        16843009,
+                        33685761,
+                        50529026,
+                        16843011,
+                        16843009,
+                        33620225,
+                        50528770,
+                        16843011,
+                        16842752,
+                        16843009,
+                        50528770,
+                        65795,
+                        16777216,
+                        16843009,
+                        50528770,
+                        65795,
+                        16777216,
+                        16843009,
+                        50528770,
+                        16843011,
+                        16842752,
+                        16843009,
+                        50528770,
+                        16843011,
+                        16843009,
+                        16843009,
+                        50528770,
+                        16843011,
+                        16843009,
+                        16843009,
+                        50528770,
+                        16843011,
+                        16843009,
+                        16843009,
+                        50528770,
+                        3
+                    ]
+                },
+                {
+                    "unknown_000": "hal",
+                    "unknown_008": 7102824,
+                    "unknown_00C": 16,
+                    "unknown_010": 1.0,
+                    "unknown_014": [
+                        50529027,
+                        16843267,
+                        16843009,
+                        50529026,
+                        50529027,
+                        16843267,
+                        16843009,
+                        50529026,
+                        50529027,
+                        16843267,
+                        16842752,
+                        50529026,
+                        50529027,
+                        16843267,
+                        16842752,
+                        50529026,
+                        50529027,
+                        16843267,
+                        16842752,
+                        50529026,
+                        50529027,
+                        16843267,
+                        16842752,
+                        50529026,
+                        50529027,
+                        16843267,
+                        16843009,
+                        50529026,
+                        50529027,
+                        16843267,
+                        16843009,
+                        50529026,
+                        50529027,
+                        16908803,
+                        33620225,
+                        50529026,
+                        50529027,
+                        16908803,
+                        33620225,
+                        50529026,
+                        50529027,
+                        16908803,
+                        33620225,
+                        50529026,
+                        50529027,
+                        16908803,
+                        33620225,
+                        50529026,
+                        50529027,
+                        16908803,
+                        33620225,
+                        50529026,
+                        50529027,
+                        16908803,
+                        33620225,
+                        50529026,
+                        50529027,
+                        16908803,
+                        33620225,
+                        50529026,
+                        50529027,
+                        16908803,
+                        33620225,
+                        50529026,
+                        3
+                    ]
+                },
+                {
+                    "unknown_000": "star_destroyer",
+                    "unknown_008": 1685222515,
+                    "unknown_00C": 16,
+                    "unknown_010": 1.0,
+                    "unknown_014": [
+                        50529027,
+                        16909059,
+                        16843009,
+                        16843009,
+                        50529025,
+                        16909059,
+                        16843009,
+                        16843008,
+                        50529025,
+                        16908803,
+                        16843009,
+                        16842752,
+                        50529025,
+                        16908803,
+                        16843009,
+                        16777216,
+                        50529025,
+                        33686019,
+                        16843009,
+                        0,
+                        50529025,
+                        33686019,
+                        16843009,
+                        16843009,
+                        50529025,
+                        33686275,
+                        16843009,
+                        16843009,
+                        50529025,
+                        33686275,
+                        16843009,
+                        16843009,
+                        50529025,
+                        33686275,
+                        16843010,
+                        16843009,
+                        50529025,
+                        33751811,
+                        33686018,
+                        16843010,
+                        50529025,
+                        50529027,
+                        33686018,
+                        33686018,
+                        50529026,
+                        50529027,
+                        33751811,
+                        50463234,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        3
+                    ]
+                },
+                {
+                    "unknown_000": "staggered",
+                    "unknown_008": 1734833267,
+                    "unknown_00C": 16,
+                    "unknown_010": 1.0,
+                    "unknown_014": [
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        33751811,
+                        33686018,
+                        50529026,
+                        50529027,
+                        33751811,
+                        33686018,
+                        50529026,
+                        50529027,
+                        33751811,
+                        16843010,
+                        50529025,
+                        50529027,
+                        33751811,
+                        16843010,
+                        50529025,
+                        33686019,
+                        33686018,
+                        16843010,
+                        50529025,
+                        33686019,
+                        33686018,
+                        16843010,
+                        50529025,
+                        16908803,
+                        16843009,
+                        16843009,
+                        50529025,
+                        16908803,
+                        65793,
+                        16842752,
+                        50529025,
+                        16908803,
+                        65793,
+                        16842752,
+                        50529025,
+                        16908803,
+                        65793,
+                        16842752,
+                        50529025,
+                        16908803,
+                        16843009,
+                        16843009,
+                        50529025,
+                        16908803,
+                        16843009,
+                        16843009,
+                        1
+                    ]
+                },
+                {
+                    "unknown_000": "c-shaped",
+                    "unknown_008": 1634235235,
+                    "unknown_00C": 16,
+                    "unknown_010": 1.0,
+                    "unknown_014": [
+                        50529027,
+                        16843011,
+                        16843009,
+                        50397441,
+                        50529027,
+                        16843010,
+                        16843009,
+                        50463233,
+                        33751811,
+                        16843009,
+                        33686017,
+                        50463234,
+                        33751811,
+                        16843009,
+                        33686017,
+                        50529027,
+                        33751811,
+                        16843009,
+                        50463233,
+                        50529027,
+                        33751811,
+                        16843009,
+                        50463233,
+                        50529027,
+                        33751811,
+                        16777217,
+                        50463233,
+                        50529027,
+                        33751811,
+                        16777217,
+                        50463233,
+                        50529027,
+                        33751811,
+                        16777217,
+                        50463233,
+                        50529027,
+                        33751811,
+                        16777217,
+                        50463233,
+                        50529027,
+                        33751811,
+                        16777217,
+                        50463233,
+                        50529027,
+                        33751811,
+                        16843009,
+                        50463233,
+                        50529027,
+                        33751811,
+                        16843009,
+                        50463233,
+                        50529027,
+                        33751811,
+                        16843009,
+                        33686017,
+                        50529027,
+                        33751811,
+                        16843009,
+                        33686017,
+                        50463234,
+                        50529027,
+                        16843010,
+                        16843009,
+                        50397441,
+                        3
+                    ]
+                },
+                {
+                    "unknown_000": "death_star",
+                    "unknown_008": 1936225380,
+                    "unknown_00C": 10,
+                    "unknown_010": 1.0,
+                    "unknown_014": [
+                        16843011,
+                        16843009,
+                        16843009,
+                        65793,
+                        16843008,
+                        16843009,
+                        16777217,
+                        16843009,
+                        16843009,
+                        16843009,
+                        16843009,
+                        16843009,
+                        33620225,
+                        33686018,
+                        33686018,
+                        33686018,
+                        33686018,
+                        50463234,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        50529027,
+                        3,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "unknown_000": "SE_City_1",
+                    "unknown_008": 826492243,
+                    "unknown_00C": 12,
+                    "unknown_010": 1.0,
+                    "unknown_014": [
+                        33686275,
+                        33686018,
+                        50528770,
+                        771,
+                        0,
+                        50528256,
+                        771,
+                        0,
+                        50331648,
+                        197379,
+                        16842752,
+                        33555203,
+                        197378,
+                        16842752,
+                        33751811,
+                        197378,
+                        16843008,
+                        33554433,
+                        50332418,
+                        16843011,
+                        33554433,
+                        50331650,
+                        3,
+                        33554432,
+                        2,
+                        33686016,
+                        33554432,
+                        33751810,
+                        33686018,
+                        33686018,
+                        33751811,
+                        33686018,
+                        33686018,
+                        197379,
+                        0,
+                        50528256,
+                        3,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "unknown_1B0": [
+                {
+                    "unknown_000": 2,
+                    "unknown_008": 6912630647343217371,
+                    "unknown_010": 18446744073709551615
+                },
+                {
+                    "unknown_000": 3,
+                    "unknown_008": 5619144749052153172,
+                    "unknown_010": 18446744073709551615
+                },
+                {
+                    "unknown_000": 4,
+                    "unknown_008": 11218272068965808175,
+                    "unknown_010": 18446744073709551615
+                }
+            ],
+            "unknown_1C0": [
+                {
+                    "unknown_000": 15170076802062799443,
+                    "unknown_008": 2,
+                    "unknown_00C": 0
+                },
+                {
+                    "unknown_000": 12839371332040312071,
+                    "unknown_008": 514,
+                    "unknown_00C": 0
+                },
+                {
+                    "unknown_000": 3741211850630026031,
+                    "unknown_008": 772,
+                    "unknown_00C": 3308586179
+                },
+                {
+                    "unknown_000": 3741211850630026031,
+                    "unknown_008": 771,
+                    "unknown_00C": 0
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,104 @@
+{
+    "VehicleLocomotionComponentData": {
+        "items": [
+            {
+                "unique_id": "17875655752828743943",
+                "uid_name": "BotEnemyType_ScoutStrider",
+                "spawn_state": "VehicleState_Combat_Walker_Default",
+                "on_migrated_state": "VehicleState_Combat_Walker_Default",
+                "look_at_variable": 0,
+                "rotation_audio_source": 2601604451,
+                "rotation_audio_started": 0,
+                "rotation_audio_stopped": 0,
+                "stagger_damage": 150
+            },
+            {
+                "unique_id": "8783342891467425251",
+                "uid_name": "VehicleType_PatriotExosuit",
+                "spawn_state": "VehicleState_None",
+                "on_migrated_state": "VehicleState_None",
+                "look_at_variable": 161490677,
+                "rotation_audio_source": 1372127935,
+                "rotation_audio_started": 0,
+                "rotation_audio_stopped": 0,
+                "stagger_damage": 150
+            },
+            {
+                "unique_id": "10409770290790592053",
+                "uid_name": "BotEnemyType_ReinforcedScoutStrider",
+                "spawn_state": "VehicleState_Combat_Walker_Default",
+                "on_migrated_state": "VehicleState_Combat_Walker_Default",
+                "look_at_variable": 0,
+                "rotation_audio_source": 2601604451,
+                "rotation_audio_started": 0,
+                "rotation_audio_stopped": 0,
+                "stagger_damage": 150
+            },
+            {
+                "unique_id": "3880965223585101348",
+                "uid_name": "VehicleType_BreakthroughExosuit",
+                "spawn_state": "VehicleState_None",
+                "on_migrated_state": "VehicleState_None",
+                "look_at_variable": 161490677,
+                "rotation_audio_source": 1372127935,
+                "rotation_audio_started": 0,
+                "rotation_audio_stopped": 0,
+                "stagger_damage": 150
+            },
+            {
+                "unique_id": "8872978533108711529",
+                "uid_name": "VehicleType_LumbererExosuit",
+                "spawn_state": "VehicleState_None",
+                "on_migrated_state": "VehicleState_None",
+                "look_at_variable": 161490677,
+                "rotation_audio_source": 1372127935,
+                "rotation_audio_started": 0,
+                "rotation_audio_stopped": 0,
+                "stagger_damage": 150
+            },
+            {
+                "unique_id": "14038927220542196401",
+                "uid_name": "VehicleType_EmancipatorExosuit",
+                "spawn_state": "VehicleState_None",
+                "on_migrated_state": "VehicleState_None",
+                "look_at_variable": 161490677,
+                "rotation_audio_source": 1372127935,
+                "rotation_audio_started": 0,
+                "rotation_audio_stopped": 0,
+                "stagger_damage": 150
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "17875655752828743943",
+                "type": "BotEnemyType_ScoutStrider"
+            },
+            {
+                "idx": 1,
+                "uid": "8783342891467425251",
+                "type": "VehicleType_PatriotExosuit"
+            },
+            {
+                "idx": 2,
+                "uid": "10409770290790592053",
+                "type": "BotEnemyType_ReinforcedScoutStrider"
+            },
+            {
+                "idx": 3,
+                "uid": "3880965223585101348",
+                "type": "VehicleType_BreakthroughExosuit"
+            },
+            {
+                "idx": 4,
+                "uid": "8872978533108711529",
+                "type": "VehicleType_LumbererExosuit"
+            },
+            {
+                "idx": 5,
+                "uid": "14038927220542196401",
+                "type": "VehicleType_EmancipatorExosuit"
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "Unknown_F7A6DC23ComponentData": {
+        "items": [
+            {
+                "unique_id": "1909471264691872944",
+                "uid_name": "BugEnemyType_Charger",
+                "unknown_000": 1.100000024
+            },
+            {
+                "unique_id": "772289455772672652",
+                "uid_name": "BugEnemyType_Charger_RuptureStrain",
+                "unknown_000": 1.100000024
+            },
+            {
+                "unique_id": "15922730753540746811",
+                "uid_name": "BugEnemyType_Impaler",
+                "unknown_000": 1.5
+            },
+            {
+                "unique_id": "10401073942655502917",
+                "uid_name": "IlluminateEnemyType_Crusher",
+                "unknown_000": 1.100000024
+            },
+            {
+                "unique_id": "7719208875390099550",
+                "uid_name": "BugEnemyType_Charger_CausticStrain",
+                "unknown_000": 1.100000024
+            },
+            {
+                "unique_id": "4251221953861716889",
+                "uid_name": "BugEnemyType_ChargerBehemoth",
+                "unknown_000": 1.100000024
+            },
+            {
+                "unique_id": "18253730739818952707",
+                "uid_name": "BugEnemyType_ChargerBehemoth",
+                "unknown_000": 1.100000024
+            },
+            {
+                "unique_id": "11555060082231454796",
+                "uid_name": "BugEnemyType_ChargerBehemoth",
+                "unknown_000": 1.100000024
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "1909471264691872944",
+                "type": "BugEnemyType_Charger"
+            },
+            {
+                "idx": 1,
+                "uid": "772289455772672652",
+                "type": "BugEnemyType_Charger_RuptureStrain"
+            },
+            {
+                "idx": 2,
+                "uid": "15922730753540746811",
+                "type": "BugEnemyType_Impaler"
+            },
+            {
+                "idx": 3,
+                "uid": "10401073942655502917",
+                "type": "IlluminateEnemyType_Crusher"
+            },
+            {
+                "idx": 4,
+                "uid": "7719208875390099550",
+                "type": "BugEnemyType_Charger_CausticStrain"
+            },
+            {
+                "idx": 5,
+                "uid": "4251221953861716889",
+                "type": "BugEnemyType_ChargerBehemoth"
+            },
+            {
+                "idx": 6,
+                "uid": "18253730739818952707",
+                "type": "BugEnemyType_ChargerBehemoth"
+            },
+            {
+                "idx": 7,
+                "uid": "11555060082231454796",
+                "type": "BugEnemyType_ChargerBehemoth"
+            }
+        ]
+    }
+}

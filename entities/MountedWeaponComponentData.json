@@ -1,0 +1,17 @@
+{
+    "MountedWeaponComponentData": {
+        "items": [
+            {
+                "unique_id": "10015863766813883629",
+                "uid_name": "VehicleType_MaelstromTank_VerticalMissileLauncher"
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "10015863766813883629",
+                "type": "VehicleType_MaelstromTank_VerticalMissileLauncher"
+            }
+        ]
+    }
+}
