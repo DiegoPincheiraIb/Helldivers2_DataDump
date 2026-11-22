@@ -1,0 +1,48 @@
+{
+    "WaveEncounterTriggerComponentData": {
+        "items": [
+            {
+                "unique_id": "16915618249410217346",
+                "uid_name": "16915618249410217346",
+                "number_of_waves": 99,
+                "start_time_between_waves": 42.0,
+                "end_time_between_waves": 28.0,
+                "maximum_time_between_waves": 2.0,
+                "start_encounter_points_multipliers": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.875,
+                    1.875,
+                    1.875,
+                    1.875,
+                    1.875,
+                    1.875
+                ],
+                "end_encounter_points_multipliers": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    2.75,
+                    2.75,
+                    2.75,
+                    2.75,
+                    2.75,
+                    2.75
+                ],
+                "spawn_boss": 0,
+                "boss_frequency": 5,
+                "target_unit": 16238797801238878579
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "16915618249410217346",
+                "type": "16915618249410217346"
+            }
+        ]
+    }
+}

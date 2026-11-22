@@ -1,0 +1,43 @@
+{
+    "GuidedWeaponComponentData": {
+        "items": [
+            {
+                "unique_id": "14081448954912365533",
+                "uid_name": "VehicleType_MaelstromTank_TargetDesignator",
+                "unknown_000": 3
+            },
+            {
+                "unique_id": "15150485993766777854",
+                "uid_name": "VehicleType_MaelstromTank_Missile",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "10015863766813883629",
+                "uid_name": "VehicleType_MaelstromTank_VerticalMissileLauncher",
+                "unknown_000": 2
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "unknown_000": 0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "14081448954912365533",
+                "type": "VehicleType_MaelstromTank_TargetDesignator"
+            },
+            {
+                "idx": 1,
+                "uid": "15150485993766777854",
+                "type": "VehicleType_MaelstromTank_Missile"
+            },
+            {
+                "idx": 2,
+                "uid": "10015863766813883629",
+                "type": "VehicleType_MaelstromTank_VerticalMissileLauncher"
+            }
+        ]
+    }
+}

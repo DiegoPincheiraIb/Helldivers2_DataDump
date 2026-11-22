@@ -1,0 +1,50 @@
+{
+    "AirborneNavigationComponentData": {
+        "items": [
+            {
+                "unique_id": "10811815200209238698",
+                "uid_name": "BugEnemyType_Dragonroach",
+                "unknown_000": 8.0,
+                "unknown_004": 12.0,
+                "unknown_008": 45.0,
+                "unknown_00C": 20.0,
+                "unknown_010": 100.0,
+                "unknown_014": 80.0,
+                "unknown_018": 35.0,
+                "unknown_01C": 14.0,
+                "unknown_020": 20.0,
+                "unknown_024": 2.0,
+                "unknown_028": -5.0,
+                "unknown_02C": 9.800000191,
+                "unknown_030": 80.0,
+                "unknown_034": 220.0,
+                "unknown_038": 160.0,
+                "unknown_03C": 90.0,
+                "unknown_040": 3655622689,
+                "unknown_048": 35.0,
+                "unknown_04C": 1.5,
+                "unknown_050": 125.0,
+                "unknown_054": 3,
+                "unknown_058": 60.0,
+                "unknown_05C": 1,
+                "unknown_060": 1,
+                "unknown_068": 4067820803,
+                "unknown_06C": 15.0,
+                "unknown_070": 20.0,
+                "unknown_074": 25.0,
+                "unknown_078": 30.0,
+                "unknown_07C": 0.300000012,
+                "unknown_080": 0.400000006,
+                "unknown_084": 30.0,
+                "unknown_088": 2.0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "10811815200209238698",
+                "type": "BugEnemyType_Dragonroach"
+            }
+        ]
+    }
+}

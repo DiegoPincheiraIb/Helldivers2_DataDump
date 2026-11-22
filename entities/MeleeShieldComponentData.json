@@ -1,0 +1,57 @@
+{
+    "MeleeShieldComponentData": {
+        "items": [
+            {
+                "unique_id": "7298250363396168598",
+                "uid_name": "VehicleType_BreakthroughExosuit_Shield",
+                "unknown_000": 29,
+                "unknown_004": 1,
+                "unknown_008": 50,
+                "unknown_00C": 65.0,
+                "unknown_012": 1,
+                "unknown_014": 754997465,
+                "unknown_018": 754997465,
+                "unknown_01C": 1131148981,
+                "unknown_020": 0
+            },
+            {
+                "unique_id": "10844335154607830587",
+                "uid_name": "SupportBackpackType_BallisticShield",
+                "unknown_000": 29,
+                "unknown_004": 1,
+                "unknown_008": 30,
+                "unknown_00C": 65.0,
+                "unknown_012": 1,
+                "unknown_014": 0,
+                "unknown_018": 0,
+                "unknown_01C": 2748617169,
+                "unknown_020": 2582166149
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "unknown_000": 7,
+                "unknown_004": 0,
+                "unknown_008": 0,
+                "unknown_00C": 180.0,
+                "unknown_012": 1,
+                "unknown_014": 0,
+                "unknown_018": 0,
+                "unknown_01C": 0,
+                "unknown_020": 0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "7298250363396168598",
+                "type": "VehicleType_BreakthroughExosuit_Shield"
+            },
+            {
+                "idx": 1,
+                "uid": "10844335154607830587",
+                "type": "SupportBackpackType_BallisticShield"
+            }
+        ]
+    }
+}

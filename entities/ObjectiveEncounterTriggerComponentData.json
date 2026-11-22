@@ -1,0 +1,253 @@
+{
+    "ObjectiveEncounterTriggerComponentData": {
+        "items": [
+            {
+                "unique_id": "5270180603555517763",
+                "uid_name": "5270180603555517763",
+                "encounter_on_time_per_difficulty": [
+                    10.0,
+                    10.0,
+                    10.0,
+                    15.0,
+                    15.0,
+                    15.0,
+                    20.0,
+                    20.0,
+                    20.0,
+                    20.0
+                ],
+                "encounter_off_time_per_difficulty": [
+                    30.0,
+                    30.0,
+                    30.0,
+                    35.0,
+                    35.0,
+                    35.0,
+                    40.0,
+                    40.0,
+                    40.0,
+                    40.0
+                ],
+                "continue_on_completion": 0,
+                "continue_after_mission_time": 0
+            },
+            {
+                "unique_id": "9944277644647265182",
+                "uid_name": "9944277644647265182",
+                "encounter_on_time_per_difficulty": [
+                    30.0,
+                    35.0,
+                    40.0,
+                    45.0,
+                    50.0,
+                    55.0,
+                    60.0,
+                    60.0,
+                    60.0,
+                    60.0
+                ],
+                "encounter_off_time_per_difficulty": [
+                    30.0,
+                    35.0,
+                    40.0,
+                    45.0,
+                    50.0,
+                    55.0,
+                    60.0,
+                    60.0,
+                    60.0,
+                    60.0
+                ],
+                "continue_on_completion": 0,
+                "continue_after_mission_time": 0
+            },
+            {
+                "unique_id": "9246378103603402135",
+                "uid_name": "9246378103603402135",
+                "encounter_on_time_per_difficulty": [
+                    5.0,
+                    10.0,
+                    10.0,
+                    10.0,
+                    10.0,
+                    12.0,
+                    14.0,
+                    16.0,
+                    18.0,
+                    20.0
+                ],
+                "encounter_off_time_per_difficulty": [
+                    60.0,
+                    60.0,
+                    60.0,
+                    60.0,
+                    60.0,
+                    60.0,
+                    60.0,
+                    50.0,
+                    40.0,
+                    30.0
+                ],
+                "continue_on_completion": 0,
+                "continue_after_mission_time": 1
+            },
+            {
+                "unique_id": "13164140782040636665",
+                "uid_name": "13164140782040636665",
+                "encounter_on_time_per_difficulty": [
+                    20.0,
+                    25.0,
+                    30.0,
+                    35.0,
+                    40.0,
+                    45.0,
+                    50.0,
+                    55.0,
+                    60.0,
+                    65.0
+                ],
+                "encounter_off_time_per_difficulty": [
+                    7.0,
+                    7.0,
+                    7.0,
+                    8.0,
+                    9.0,
+                    10.0,
+                    12.0,
+                    13.0,
+                    15.0,
+                    16.0
+                ],
+                "continue_on_completion": 0,
+                "continue_after_mission_time": 1
+            },
+            {
+                "unique_id": "15759032211744460510",
+                "uid_name": "15759032211744460510",
+                "encounter_on_time_per_difficulty": [
+                    20.0,
+                    25.0,
+                    30.0,
+                    35.0,
+                    40.0,
+                    45.0,
+                    50.0,
+                    55.0,
+                    60.0,
+                    65.0
+                ],
+                "encounter_off_time_per_difficulty": [
+                    7.0,
+                    7.0,
+                    7.0,
+                    8.0,
+                    9.0,
+                    10.0,
+                    12.0,
+                    13.0,
+                    15.0,
+                    16.0
+                ],
+                "continue_on_completion": 0,
+                "continue_after_mission_time": 1
+            },
+            {
+                "unique_id": "4882226405607636345",
+                "uid_name": "4882226405607636345",
+                "encounter_on_time_per_difficulty": [
+                    20.0,
+                    25.0,
+                    30.0,
+                    35.0,
+                    40.0,
+                    45.0,
+                    50.0,
+                    55.0,
+                    60.0,
+                    65.0
+                ],
+                "encounter_off_time_per_difficulty": [
+                    7.0,
+                    7.0,
+                    7.0,
+                    8.0,
+                    9.0,
+                    10.0,
+                    12.0,
+                    13.0,
+                    15.0,
+                    16.0
+                ],
+                "continue_on_completion": 0,
+                "continue_after_mission_time": 1
+            },
+            {
+                "unique_id": "17613848926527811920",
+                "uid_name": "17613848926527811920",
+                "encounter_on_time_per_difficulty": [
+                    20.0,
+                    25.0,
+                    30.0,
+                    35.0,
+                    40.0,
+                    45.0,
+                    50.0,
+                    55.0,
+                    60.0,
+                    65.0
+                ],
+                "encounter_off_time_per_difficulty": [
+                    7.0,
+                    7.0,
+                    7.0,
+                    8.0,
+                    8.0,
+                    9.0,
+                    9.0,
+                    10.0,
+                    10.0,
+                    10.0
+                ],
+                "continue_on_completion": 0,
+                "continue_after_mission_time": 1
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "5270180603555517763",
+                "type": "5270180603555517763"
+            },
+            {
+                "idx": 1,
+                "uid": "9944277644647265182",
+                "type": "9944277644647265182"
+            },
+            {
+                "idx": 2,
+                "uid": "9246378103603402135",
+                "type": "9246378103603402135"
+            },
+            {
+                "idx": 3,
+                "uid": "13164140782040636665",
+                "type": "13164140782040636665"
+            },
+            {
+                "idx": 4,
+                "uid": "15759032211744460510",
+                "type": "15759032211744460510"
+            },
+            {
+                "idx": 5,
+                "uid": "4882226405607636345",
+                "type": "4882226405607636345"
+            },
+            {
+                "idx": 6,
+                "uid": "17613848926527811920",
+                "type": "17613848926527811920"
+            }
+        ]
+    }
+}

@@ -1,0 +1,3789 @@
+{
+    "LoadoutEntryComponentData": {
+        "items": [
+            {
+                "unique_id": "9738700126984703622",
+                "uid_name": "9738700126984703622",
+                "loadout_id": 0,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "3888029160815609798",
+                "uid_name": "3888029160815609798",
+                "loadout_id": 2906140436,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "8451228818735071650",
+                "uid_name": "8451228818735071650",
+                "loadout_id": 1733110979,
+                "loadout_type": "LoadoutItemType_PermanentGear",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "6918199871803715620",
+                "uid_name": "ThrowableType_DemocraticRattle",
+                "loadout_id": 1991476415,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3591930318,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "15821755148612569419",
+                "uid_name": "ThrowableType_ArcGrenade",
+                "loadout_id": 1030888251,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    1325312028,
+                    1064601703,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5058456942810545460",
+                "uid_name": "ThrowableType_GigaGrenade",
+                "loadout_id": 189227448,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3591930318,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "2303622299803843892",
+                "uid_name": "2303622299803843892",
+                "loadout_id": 338685597,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "8540606443036588471",
+                "uid_name": "ThrowableType_ImpactGrenade",
+                "loadout_id": 2823164517,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    658390125,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "15760376640790925767",
+                "uid_name": "ThrowableType_Smokescreen",
+                "loadout_id": 131945085,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    1325312028,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "16965724150372546684",
+                "uid_name": "ThrowableType_IncendiaryImpactGrenade",
+                "loadout_id": 16338515,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2097258772,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "6635194745446284256",
+                "uid_name": "ThrowableType_ImmolationGrenade",
+                "loadout_id": 3228109421,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2097258772,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "16671435828232852140",
+                "uid_name": "SupportWeaponType_AirburstRocketLauncherBackpack",
+                "loadout_id": 2273006189,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5690760409550920280",
+                "uid_name": "SupportBackpackType_SupplyBackpack",
+                "loadout_id": 1925755439,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "16576307969206587212",
+                "uid_name": "SupportWeaponType_AutocannonBackpack",
+                "loadout_id": 3066314944,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "2791632565401924213",
+                "uid_name": "2791632565401924213",
+                "loadout_id": 2173864768,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "10844335154607830587",
+                "uid_name": "SupportBackpackType_BallisticShield",
+                "loadout_id": 1028872423,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "17709977744562302112",
+                "uid_name": "17709977744562302112",
+                "loadout_id": 0,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "6889076721164976792",
+                "uid_name": "6889076721164976792",
+                "loadout_id": 1028872423,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "13495904577777136893",
+                "uid_name": "SupportBackpackType_BFGrenadeLauncherBackpack",
+                "loadout_id": 512147393,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "11155000903228636302",
+                "uid_name": "SupportBackpackType_PortableHellbomb",
+                "loadout_id": 4255545685,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "11201896471107657063",
+                "uid_name": "SupportWeaponType_C4Explosives",
+                "loadout_id": 3748434442,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3591930318,
+                    1582959385,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "3033447149328295793",
+                "uid_name": "SupportWeaponType_C4Backpack",
+                "loadout_id": 519340933,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "11882632134944470026",
+                "uid_name": "SupportBackpackType_DirectionalShield_Relay",
+                "loadout_id": 272480476,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "13012964727571811944",
+                "uid_name": "SupportBackpackType_Warppack",
+                "loadout_id": 3253029690,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "3464783698532994381",
+                "uid_name": "SupportBackpackType_FlameDrone_Backpack",
+                "loadout_id": 3883022479,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "13834130950471716570",
+                "uid_name": "SupportBackpackType_CausticDrone_Backpack",
+                "loadout_id": 4243413869,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "16125342225783174778",
+                "uid_name": "16125342225783174778",
+                "loadout_id": 2700946317,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "2692796710804508396",
+                "uid_name": "SupportBackpackType_BulletDrone_Backpack",
+                "loadout_id": 2700946317,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "16756305030629006721",
+                "uid_name": "16756305030629006721",
+                "loadout_id": 2700946317,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "12653822188347841538",
+                "uid_name": "SupportBackpackType_LaserDrone_Backpack",
+                "loadout_id": 1440244352,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "1353568197974522460",
+                "uid_name": "SupportBackpackType_PersonalBubbleShield",
+                "loadout_id": 1313198083,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "10287068634025973658",
+                "uid_name": "SupportWeaponType_SpearLauncher_Backpack",
+                "loadout_id": 271509801,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "3870192466842195264",
+                "uid_name": "3870192466842195264",
+                "loadout_id": 2432087455,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "13330286337704337139",
+                "uid_name": "SupportWeaponType_WASPLauncher_Backpack",
+                "loadout_id": 790588279,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "14019044913798069754",
+                "uid_name": "SupportBackpackType_ArcDrone_Backpack",
+                "loadout_id": 1875465746,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "4894036464529596640",
+                "uid_name": "SupportBackpackType_CrematorBackpack",
+                "loadout_id": 432912135,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "6829725667368330959",
+                "uid_name": "SupportBackpackType_Hoverpack",
+                "loadout_id": 452826786,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "6468799106264970105",
+                "uid_name": "SupportBackpackType_Jumppack",
+                "loadout_id": 2649062090,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "744753118896166941",
+                "uid_name": "SupportBackpackType_MedicBackpack",
+                "loadout_id": 4010403312,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "391216982669554238",
+                "uid_name": "SupportBackpackType_MaxigunBackpack",
+                "loadout_id": 1092582811,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "10871626090290489728",
+                "uid_name": "SupportBackpackType_RecoillessRifle_Backpack_MK2",
+                "loadout_id": 2213467394,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "1945762457460294290",
+                "uid_name": "SupportBackpackType_RecoillessRifle_Backpack",
+                "loadout_id": 3219107289,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "669328475908342564",
+                "uid_name": "SupportWeaponType_ApexSniperRifleBackpack",
+                "loadout_id": 780093772,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "6863144698475545939",
+                "uid_name": "SupportWeaponType_BreachingHammer",
+                "loadout_id": 3330450692,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "16408494556715988068",
+                "uid_name": "MeleeWeaponType_StunLance",
+                "loadout_id": 2518036308,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    53671078,
+                    681329901,
+                    0
+                ]
+            },
+            {
+                "unique_id": "16743928489815142323",
+                "uid_name": "SupportWeaponType_EntrenchmentTool_Derelict",
+                "loadout_id": 4133671573,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    4044730534,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "9088112410931658315",
+                "uid_name": "MeleeWeaponType_EntrenchmentTool",
+                "loadout_id": 2173315377,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    681329901,
+                    53671078,
+                    0
+                ]
+            },
+            {
+                "unique_id": "6160539022825437465",
+                "uid_name": "6160539022825437465",
+                "loadout_id": 619315866,
+                "loadout_type": "LoadoutItemType_PermanentGear",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "31037231052968958",
+                "uid_name": "PrimaryWeaponType_Evictor",
+                "loadout_id": 2979303494,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    1325312028,
+                    1501540430,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "4749824949454633632",
+                "uid_name": "PrimaryWeaponType_Punisher",
+                "loadout_id": 2088854385,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    1501540430,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "13601459612566041022",
+                "uid_name": "PrimaryWeaponType_PunisherFireOfLiberty",
+                "loadout_id": 1934208922,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    1501540430,
+                    300892437,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5725374950499373869",
+                "uid_name": "PrimaryWeaponType_Slugger",
+                "loadout_id": 2246547985,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    1501540430,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5634296840427219794",
+                "uid_name": "PrimaryWeaponType_HaltShotgun",
+                "loadout_id": 122941246,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    3085090887,
+                    1501540430,
+                    53671078,
+                    0
+                ]
+            },
+            {
+                "unique_id": "15214248472323070124",
+                "uid_name": "PrimaryWeaponType_Cookout",
+                "loadout_id": 1321109120,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    1501540430,
+                    2783978577,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "421324886246020354",
+                "uid_name": "PrimaryWeaponType_PlasmaPunisher",
+                "loadout_id": 3955657629,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "15911719089517557690",
+                "uid_name": "PrimaryWeaponType_SweeperShotgun",
+                "loadout_id": 931633769,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    1501540430,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "8221051007693717489",
+                "uid_name": "PrimaryWeaponType_DoubleFreedomShotgun",
+                "loadout_id": 3417185725,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    1501540430,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "10438714418406872918",
+                "uid_name": "PrimaryWeaponType_M90AShotgun",
+                "loadout_id": 3414013062,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    1501540430,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "10768610637301609307",
+                "uid_name": "PrimaryWeaponType_Knight",
+                "loadout_id": 2161995568,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    4044730534,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "9957594915860537321",
+                "uid_name": "PrimaryWeaponType_Stoker",
+                "loadout_id": 2011243293,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    4044730534,
+                    2097258772,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5450511615252257986",
+                "uid_name": "PrimaryWeaponType_StA11",
+                "loadout_id": 1179533432,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    4044730534,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "13722729806569931406",
+                "uid_name": "PrimaryWeaponType_M7SSMG",
+                "loadout_id": 1246313930,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    4044730534,
+                    1933041026,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "10717884433990741653",
+                "uid_name": "PrimaryWeaponType_Reprimand",
+                "loadout_id": 725205791,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "1760530725124205338",
+                "uid_name": "PrimaryWeaponType_Gallant",
+                "loadout_id": 539671360,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "3460488074252222302",
+                "uid_name": "PrimaryWeaponType_PlasmaSniper",
+                "loadout_id": 3478892931,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "17983663411446975103",
+                "uid_name": "PrimaryWeaponType_VariableShotgun",
+                "loadout_id": 469340936,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "14954542309183038509",
+                "uid_name": "SecondaryWeaponType_Warrant",
+                "loadout_id": 207998803,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    2901461855,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "1501339492476700580",
+                "uid_name": "SecondaryWeaponType_MissilePistol",
+                "loadout_id": 358989959,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    3591930318,
+                    4044730534,
+                    2901461855,
+                    1325312028
+                ]
+            },
+            {
+                "unique_id": "424716889947522210",
+                "uid_name": "SecondaryWeaponType_Peacemaker",
+                "loadout_id": 2811723672,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    4044730534,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "15470422196992643923",
+                "uid_name": "SecondaryWeaponType_StimPistol",
+                "loadout_id": 1084288106,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    4044730534,
+                    1501540430,
+                    3952269953,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "10246353889697054562",
+                "uid_name": "ThrowableType_AntiTankSeeker",
+                "loadout_id": 932374702,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3591930318,
+                    1325312028,
+                    2901461855,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "2983879645414043401",
+                "uid_name": "ThrowableType_CaltropsGrenade",
+                "loadout_id": 3806884545,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    53671078,
+                    1582959385,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "530045626612387909",
+                "uid_name": "ThrowableType_PineappleGrenade",
+                "loadout_id": 1639574879,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "1456507421651509424",
+                "uid_name": "ThrowableType_Dynamite",
+                "loadout_id": 385461545,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    658390125,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "1989119436006646583",
+                "uid_name": "ThrowableType_PocketShield",
+                "loadout_id": 3466282658,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    1582959385,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "36176771630602099",
+                "uid_name": "ThrowableType_StunGrenade",
+                "loadout_id": 375014954,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    1325312028,
+                    53671078,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5542218890398374779",
+                "uid_name": "ThrowableType_FragGrenade",
+                "loadout_id": 3295898003,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "294590291936179579",
+                "uid_name": "ThrowableType_GasGrenade",
+                "loadout_id": 1255689962,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    1865818670,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "7715225218085078398",
+                "uid_name": "ThrowableType_HighExplosiveGrenade",
+                "loadout_id": 3191303848,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    658390125,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "316723890334202692",
+                "uid_name": "ThrowableType_IncendiaryGrenade",
+                "loadout_id": 3748749890,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2097258772,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "10168990792011931162",
+                "uid_name": "ThrowableType_UnknownStickyGrenade",
+                "loadout_id": 1358331037,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3591930318,
+                    1582959385,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "11675163230052555240",
+                "uid_name": "ThrowableType_LureMine",
+                "loadout_id": 1752129915,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3591930318,
+                    1582959385,
+                    1325312028,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "17171117602208659444",
+                "uid_name": "ThrowableType_MeltaMine",
+                "loadout_id": 1339288659,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3591930318,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "3258790968645519416",
+                "uid_name": "ThrowableType_SeekerGrenade",
+                "loadout_id": 1789694805,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    658390125,
+                    1325312028,
+                    2901461855,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "6766936627846269706",
+                "uid_name": "ThrowableType_SmokeGrenade",
+                "loadout_id": 2877510587,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    1325312028,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "14249494547947571097",
+                "uid_name": "ThrowableType_ThermiteGrenade",
+                "loadout_id": 3869545997,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3591930318,
+                    1582959385,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "4587284938949573643",
+                "uid_name": "ThrowableType_UrchinThermiteGrenade",
+                "loadout_id": 1625792993,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    1582959385,
+                    53671078,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "17848709375785648310",
+                "uid_name": "ThrowableType_ThrowingKnife",
+                "loadout_id": 1858752103,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "284602740380634958",
+                "uid_name": "ThrowableType_PyrotechGrenade",
+                "loadout_id": 1612683909,
+                "loadout_type": "LoadoutItemType_ThrowableWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2097258772,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5910727434981086692",
+                "uid_name": "SupportWeaponType_BreakActionShotgun",
+                "loadout_id": 3744531484,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "11432560202897483622",
+                "uid_name": "PickupType_LarvaContainer",
+                "loadout_id": 0,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "518600486455451088",
+                "uid_name": "SupportBackpackType_DarkFluidJumppack",
+                "loadout_id": 0,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "3973443609256024694",
+                "uid_name": "SupportWeaponType_TacticalVideoCamera",
+                "loadout_id": 838155692,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "4894393506576860267",
+                "uid_name": "4894393506576860267",
+                "loadout_id": 0,
+                "loadout_type": "LoadoutItemType_Backpack",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5905641205788913469",
+                "uid_name": "SupportWeaponType_C4Detonator",
+                "loadout_id": 397581595,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2623638484,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "18219495801425257306",
+                "uid_name": "MeleeWeaponType_Saber",
+                "loadout_id": 4109429659,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    681329901,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "13784670920243131812",
+                "uid_name": "SupportWeaponType_DefoliationTool",
+                "loadout_id": 3572024208,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5966635890313573271",
+                "uid_name": "MeleeWeaponType_RiotBaton",
+                "loadout_id": 3197732872,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    53671078,
+                    681329901,
+                    0
+                ]
+            },
+            {
+                "unique_id": "12750169196543686872",
+                "uid_name": "SupportWeaponType_OneTrueFlag",
+                "loadout_id": 819954976,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    53671078,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "8467154841892407376",
+                "uid_name": "MeleeWeaponType_Tomahawk",
+                "loadout_id": 1462250732,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    681329901,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "8731737688384722662",
+                "uid_name": "MeleeWeaponType_Machete",
+                "loadout_id": 3859022603,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    681329901,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "3371451580584923919",
+                "uid_name": "3371451580584923919",
+                "loadout_id": 3064825648,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "535319041333920260",
+                "uid_name": "PrimaryWeaponType_ArcShotgun",
+                "loadout_id": 999487482,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    1064601703,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "10845250369047350884",
+                "uid_name": "PrimaryWeaponType_StandardLiberator",
+                "loadout_id": 2852344585,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "4885016034561106550",
+                "uid_name": "PrimaryWeaponType_LiberatorPenetrator",
+                "loadout_id": 1676113140,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "14942687850090605537",
+                "uid_name": "PrimaryWeaponType_LiberatorConcussive",
+                "loadout_id": 376039023,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "12201875276601049603",
+                "uid_name": "PrimaryWeaponType_OneTwo_Rifle",
+                "loadout_id": 3428996225,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "14840077516977962372",
+                "uid_name": "PrimaryWeaponType_StA52",
+                "loadout_id": 3344526787,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "13558475039457634667",
+                "uid_name": "PrimaryWeaponType_PacifierRifle",
+                "loadout_id": 3623018063,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    53671078,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "9526594500243002157",
+                "uid_name": "PrimaryWeaponType_Coyote",
+                "loadout_id": 400301984,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2097258772,
+                    3085090887,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "13261220132843116788",
+                "uid_name": "PrimaryWeaponType_LiberatorLegacy",
+                "loadout_id": 1639485025,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5601762105466289171",
+                "uid_name": "PrimaryWeaponType_AssaultRifleMA5C",
+                "loadout_id": 2564789309,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "12100643055971655455",
+                "uid_name": "PrimaryWeaponType_LiberatorCarbine",
+                "loadout_id": 1160920394,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "14845617694460717074",
+                "uid_name": "PrimaryWeaponType_Tenderizer",
+                "loadout_id": 1920374015,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "12153278833391482546",
+                "uid_name": "PrimaryWeaponType_Arbitrator",
+                "loadout_id": 1474696864,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "8110598756017148880",
+                "uid_name": "PrimaryWeaponType_Suppressor",
+                "loadout_id": 2643754746,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    1933041026,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5050852199397921576",
+                "uid_name": "PrimaryWeaponType_StandardBreaker",
+                "loadout_id": 1182300424,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "6826025955225526457",
+                "uid_name": "PrimaryWeaponType_SprayAndPrayBreaker",
+                "loadout_id": 3814689025,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "13918995818598980231",
+                "uid_name": "PrimaryWeaponType_IncendiaryBreaker",
+                "loadout_id": 3068666625,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    2783978577,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "6912088101323449320",
+                "uid_name": "PrimaryWeaponType_Adjudicator",
+                "loadout_id": 2640366401,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "1117846648694268261",
+                "uid_name": "PrimaryWeaponType_Amendment",
+                "loadout_id": 3757606668,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "8896268509512551590",
+                "uid_name": "PrimaryWeaponType_Constitution",
+                "loadout_id": 4161086429,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    1501540430,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "4752105698603780953",
+                "uid_name": "PrimaryWeaponType_Sightliner",
+                "loadout_id": 3800614722,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    495972049,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "17623191861664038783",
+                "uid_name": "PrimaryWeaponType_ExplodingCrossbow",
+                "loadout_id": 1942567317,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    1325312028,
+                    4044730534,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5742363029208942635",
+                "uid_name": "PrimaryWeaponType_Torcher",
+                "loadout_id": 4108040377,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2097258772,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "9291384900638350902",
+                "uid_name": "PrimaryWeaponType_Dominator",
+                "loadout_id": 2121387072,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "13164006426448262783",
+                "uid_name": "PrimaryWeaponType_Eruptor",
+                "loadout_id": 339272294,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    658390125,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "2877271129141764950",
+                "uid_name": "PrimaryWeaponType_Scythe",
+                "loadout_id": 3866352840,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    2170674031,
+                    3746778495,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "9093125700741019976",
+                "uid_name": "PrimaryWeaponType_Shear",
+                "loadout_id": 2112173638,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    2170674031,
+                    3746778495,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "9675404802175538082",
+                "uid_name": "PrimaryWeaponType_Sickle",
+                "loadout_id": 1794436168,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    3746778495,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "2980234130573201393",
+                "uid_name": "PrimaryWeaponType_DoubleEdgeSickle",
+                "loadout_id": 309178703,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    3085090887,
+                    658390125,
+                    3746778495,
+                    0
+                ]
+            },
+            {
+                "unique_id": "4361428863637469552",
+                "uid_name": "PrimaryWeaponType_Trident",
+                "loadout_id": 2870692210,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    3746778495,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "14438355057613758791",
+                "uid_name": "PrimaryWeaponType_LaserSMG_Sai",
+                "loadout_id": 4101644410,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    3746778495,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "16634382492500136054",
+                "uid_name": "PrimaryWeaponType_Deadeye",
+                "loadout_id": 2104346664,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    1501540430,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "12008625947668001407",
+                "uid_name": "SupportWeaponType_LightMachineGun",
+                "loadout_id": 14345846,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "16535356726426036192",
+                "uid_name": "PrimaryWeaponType_Hyena",
+                "loadout_id": 2232169940,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    2097258772,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "17308323378831780460",
+                "uid_name": "PrimaryWeaponType_Censor",
+                "loadout_id": 838686177,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    1933041026,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "1926414056943231889",
+                "uid_name": "PrimaryWeaponType_HotShot_MarksmanRifle",
+                "loadout_id": 4050324431,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "281046277510948131",
+                "uid_name": "PrimaryWeaponType_StandardDiligence",
+                "loadout_id": 2307301438,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5510267968365085927",
+                "uid_name": "PrimaryWeaponType_CounterSniperDiligence",
+                "loadout_id": 924530093,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5641428405267160100",
+                "uid_name": "PrimaryWeaponType_Defender",
+                "loadout_id": 2821209932,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    4044730534,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "578623101395158887",
+                "uid_name": "PrimaryWeaponType_Pummeler",
+                "loadout_id": 942049262,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    4044730534,
+                    53671078,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5731472083741485993",
+                "uid_name": "UnknownType_Unknown_PhysGun",
+                "loadout_id": 2739958254,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "17196401230144941076",
+                "uid_name": "PrimaryWeaponType_Scorcher",
+                "loadout_id": 925809350,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    1325312028,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "18102809172282470538",
+                "uid_name": "PrimaryWeaponType_Purifier",
+                "loadout_id": 2887941494,
+                "loadout_type": "LoadoutItemType_PrimaryWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    2297916711,
+                    1325312028,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "3109983482551492476",
+                "uid_name": "SecondaryWeaponType_Bushwhacker",
+                "loadout_id": 2264358800,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    4044730534,
+                    1501540430,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "3852172782311805734",
+                "uid_name": "SecondaryWeaponType_Redeemer",
+                "loadout_id": 3981773112,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    4044730534,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "830958149412624616",
+                "uid_name": "SecondaryWeaponType_ReEducator",
+                "loadout_id": 1102600214,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    4044730534,
+                    1865818670,
+                    658390125,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "4714430103453754419",
+                "uid_name": "SecondaryWeaponType_LaserRevolver",
+                "loadout_id": 1920655850,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    3746778495,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "4580928717960105129",
+                "uid_name": "SecondaryWeaponType_Crisper",
+                "loadout_id": 2340232366,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2097258772,
+                    4044730534,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5972955417680186543",
+                "uid_name": "SecondaryWeaponType_GrenadePistol",
+                "loadout_id": 2797735596,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    1325312028,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "16798240363848969985",
+                "uid_name": "SecondaryWeaponType_Breacher",
+                "loadout_id": 3997705262,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    4044730534,
+                    3591930318,
+                    1582959385,
+                    1325312028,
+                    0
+                ]
+            },
+            {
+                "unique_id": "8864800879179811976",
+                "uid_name": "SecondaryWeaponType_Dagger",
+                "loadout_id": 2501707184,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    4044730534,
+                    2170674031,
+                    3746778495,
+                    0
+                ]
+            },
+            {
+                "unique_id": "179559337717557904",
+                "uid_name": "SecondaryWeaponType_Mist",
+                "loadout_id": 3286567865,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    4044730534,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "1892480894983787169",
+                "uid_name": "SecondaryWeaponType_Verdict",
+                "loadout_id": 1938200223,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "14375697644675127823",
+                "uid_name": "SecondaryWeaponType_VetoPistol",
+                "loadout_id": 1312773632,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    1501540430,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "11435027044679925718",
+                "uid_name": "SecondaryWeaponType_Ultimatum",
+                "loadout_id": 861637146,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3591930318,
+                    4044730534,
+                    1325312028,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "5573423824998200517",
+                "uid_name": "SecondaryWeaponType_SOCOMPistol",
+                "loadout_id": 2018836169,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    300892437,
+                    4044730534,
+                    1933041026,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "15832062961832144321",
+                "uid_name": "SecondaryWeaponType_BoltPistol",
+                "loadout_id": 3271863995,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    658390125,
+                    1325312028,
+                    4044730534,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "12279528435724053588",
+                "uid_name": "SecondaryWeaponType_Loyalist",
+                "loadout_id": 1902682578,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3085090887,
+                    4044730534,
+                    2297916711,
+                    1325312028,
+                    0
+                ]
+            },
+            {
+                "unique_id": "10177381595962512386",
+                "uid_name": "SecondaryWeaponType_Senator",
+                "loadout_id": 1374036584,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    658390125,
+                    4044730534,
+                    1501540430,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "13682483582340182029",
+                "uid_name": "SecondaryWeaponType_Ombudsman",
+                "loadout_id": 3388344762,
+                "loadout_type": "LoadoutItemType_SidearmWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    658390125,
+                    4044730534,
+                    1501540430,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "2802369506329449110",
+                "uid_name": "SupportWeaponType_AirburstRocketLauncher",
+                "loadout_id": 2007887745,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3408600132,
+                    3591930318,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "10871298989420119782",
+                "uid_name": "SupportWeaponType_ArcThrower",
+                "loadout_id": 992079466,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "12164217308285983839",
+                "uid_name": "SupportWeaponType_Autocannon",
+                "loadout_id": 875551083,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3408600132,
+                    1501540430,
+                    612466998,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "9854668298113416351",
+                "uid_name": "SupportWeaponType_BFGrenadeLauncher",
+                "loadout_id": 512147393,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "9869105320050739364",
+                "uid_name": "SupportWeaponType_Sterilizer",
+                "loadout_id": 4152191751,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "7853371720342307430",
+                "uid_name": "SupportWeaponType_MeltaGun",
+                "loadout_id": 774795224,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3591930318,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "12784766379234794359",
+                "uid_name": "SupportWeaponType_ExpendableMachineGun",
+                "loadout_id": 3288352984,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    4104165606,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "8509380141312129223",
+                "uid_name": "SupportWeaponType_Leveller",
+                "loadout_id": 2934950455,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2741725022,
+                    4104165606,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "12877445900026273694",
+                "uid_name": "SupportWeaponType_ExpendableNapalmLauncher",
+                "loadout_id": 1813634375,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2083407086,
+                    4104165606,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "2714034314705433838",
+                "uid_name": "SupportWeaponType_SpearLauncher",
+                "loadout_id": 3923676543,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3408600132,
+                    3591930318,
+                    2901461855,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "14733648658679365221",
+                "uid_name": "SupportWeaponType_WASPLauncher",
+                "loadout_id": 890972990,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3408600132,
+                    3591930318,
+                    2901461855,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "4155583896232633279",
+                "uid_name": "SupportWeaponType_Flamethrower",
+                "loadout_id": 1432571981,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2097258772,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "211331680192206384",
+                "uid_name": "SupportWeaponType_GrenadeLauncher",
+                "loadout_id": 3343676429,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2623638484,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "18319281757224320923",
+                "uid_name": "SupportWeaponType_DescalatorGrenadeLauncher",
+                "loadout_id": 153819019,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2623638484,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "4046732776742447255",
+                "uid_name": "SupportWeaponType_Speargun",
+                "loadout_id": 336693041,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    612466998,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "8694225878611593109",
+                "uid_name": "SupportWeaponType_Cremator",
+                "loadout_id": 2051054112,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2097258772,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "2401215835282261016",
+                "uid_name": "SupportWeaponType_HeavyMachineGun",
+                "loadout_id": 533318241,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2623638484,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "15369542005276747891",
+                "uid_name": "SupportWeaponType_LaserCannon",
+                "loadout_id": 2822568285,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2623638484,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "6453678319562593995",
+                "uid_name": "SupportWeaponType_CommandoRocketLauncher",
+                "loadout_id": 2232989803,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    612466998,
+                    4104165606,
+                    2901461855,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "3865797767236207742",
+                "uid_name": "SupportWeaponType_QuasarPulseCannon",
+                "loadout_id": 2625074523,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "8347508405287998274",
+                "uid_name": "SupportWeaponType_NovaSniperRifle",
+                "loadout_id": 4146034362,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "9264801226655597011",
+                "uid_name": "SupportWeaponType_ExpendableAntiTank",
+                "loadout_id": 3413606544,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3591930318,
+                    4104165606,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "1279722939363854678",
+                "uid_name": "SupportWeaponType_MachineGun",
+                "loadout_id": 458198946,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2623638484,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "4874456896233937276",
+                "uid_name": "SupportWeaponType_Maxigun",
+                "loadout_id": 3455841218,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "18163938711866866090",
+                "uid_name": "SupportWeaponType_MiniMissileSilo_Remote",
+                "loadout_id": 2918647117,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "16777584932715761236",
+                "uid_name": "SupportWeaponType_EpochPlasmaLauncher",
+                "loadout_id": 2140866400,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2623638484,
+                    3591930318,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "3358853937828503136",
+                "uid_name": "SupportWeaponType_Railgun",
+                "loadout_id": 3078242205,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    612466998,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "11493422068836852751",
+                "uid_name": "SupportWeaponType_RecoillessRifle",
+                "loadout_id": 1298599997,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3408600132,
+                    3591930318,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "10266352102081711787",
+                "uid_name": "10266352102081711787",
+                "loadout_id": 1076293717,
+                "loadout_type": "LoadoutItemType_PermanentGear",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "9927421484392399367",
+                "uid_name": "SupportWeaponType_AntiMaterielRifle",
+                "loadout_id": 2207713849,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "13264489371434957764",
+                "uid_name": "SupportWeaponType_ApexSniperRifle",
+                "loadout_id": 3082503125,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    3408600132,
+                    612466998,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "602390376167162446",
+                "uid_name": "VehicleType_HMG_FRV_HeavyMachineGun",
+                "loadout_id": 533318241,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2623638484,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "14772015414747343144",
+                "uid_name": "SupportWeaponType_HeavyMachineGun_MK2",
+                "loadout_id": 533318241,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2623638484,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "4920324387701779176",
+                "uid_name": "VehicleType_Incinerator_FRV_Flamethrower",
+                "loadout_id": 1432571981,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    2097258772,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "12984499893943104780",
+                "uid_name": "SupportWeaponType_LightMachineGun_MK3",
+                "loadout_id": 14345846,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "13357795631455978434",
+                "uid_name": "SupportWeaponType_LightMachineGun_APC_MK4",
+                "loadout_id": 14345846,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "unique_id": "15365965494753326077",
+                "uid_name": "SupportWeaponType_LightMachineGun_APC_MK5",
+                "loadout_id": 14345846,
+                "loadout_type": "LoadoutItemType_SupportWeapon",
+                "dlc_pack_id": 0,
+                "equipment_tags": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "9738700126984703622",
+                "type": "9738700126984703622"
+            },
+            {
+                "idx": 1,
+                "uid": "3888029160815609798",
+                "type": "3888029160815609798"
+            },
+            {
+                "idx": 2,
+                "uid": "8451228818735071650",
+                "type": "8451228818735071650"
+            },
+            {
+                "idx": 3,
+                "uid": "6918199871803715620",
+                "type": "ThrowableType_DemocraticRattle"
+            },
+            {
+                "idx": 4,
+                "uid": "15821755148612569419",
+                "type": "ThrowableType_ArcGrenade"
+            },
+            {
+                "idx": 5,
+                "uid": "5058456942810545460",
+                "type": "ThrowableType_GigaGrenade"
+            },
+            {
+                "idx": 6,
+                "uid": "2303622299803843892",
+                "type": "2303622299803843892"
+            },
+            {
+                "idx": 7,
+                "uid": "8540606443036588471",
+                "type": "ThrowableType_ImpactGrenade"
+            },
+            {
+                "idx": 8,
+                "uid": "15760376640790925767",
+                "type": "ThrowableType_Smokescreen"
+            },
+            {
+                "idx": 9,
+                "uid": "16965724150372546684",
+                "type": "ThrowableType_IncendiaryImpactGrenade"
+            },
+            {
+                "idx": 10,
+                "uid": "6635194745446284256",
+                "type": "ThrowableType_ImmolationGrenade"
+            },
+            {
+                "idx": 11,
+                "uid": "16671435828232852140",
+                "type": "SupportWeaponType_AirburstRocketLauncherBackpack"
+            },
+            {
+                "idx": 12,
+                "uid": "5690760409550920280",
+                "type": "SupportBackpackType_SupplyBackpack"
+            },
+            {
+                "idx": 13,
+                "uid": "16576307969206587212",
+                "type": "SupportWeaponType_AutocannonBackpack"
+            },
+            {
+                "idx": 14,
+                "uid": "2791632565401924213",
+                "type": "2791632565401924213"
+            },
+            {
+                "idx": 15,
+                "uid": "10844335154607830587",
+                "type": "SupportBackpackType_BallisticShield"
+            },
+            {
+                "idx": 16,
+                "uid": "17709977744562302112",
+                "type": "17709977744562302112"
+            },
+            {
+                "idx": 17,
+                "uid": "6889076721164976792",
+                "type": "6889076721164976792"
+            },
+            {
+                "idx": 18,
+                "uid": "13495904577777136893",
+                "type": "SupportBackpackType_BFGrenadeLauncherBackpack"
+            },
+            {
+                "idx": 19,
+                "uid": "11155000903228636302",
+                "type": "SupportBackpackType_PortableHellbomb"
+            },
+            {
+                "idx": 20,
+                "uid": "11201896471107657063",
+                "type": "SupportWeaponType_C4Explosives"
+            },
+            {
+                "idx": 21,
+                "uid": "3033447149328295793",
+                "type": "SupportWeaponType_C4Backpack"
+            },
+            {
+                "idx": 22,
+                "uid": "11882632134944470026",
+                "type": "SupportBackpackType_DirectionalShield_Relay"
+            },
+            {
+                "idx": 23,
+                "uid": "13012964727571811944",
+                "type": "SupportBackpackType_Warppack"
+            },
+            {
+                "idx": 24,
+                "uid": "3464783698532994381",
+                "type": "SupportBackpackType_FlameDrone_Backpack"
+            },
+            {
+                "idx": 25,
+                "uid": "13834130950471716570",
+                "type": "SupportBackpackType_CausticDrone_Backpack"
+            },
+            {
+                "idx": 26,
+                "uid": "16125342225783174778",
+                "type": "16125342225783174778"
+            },
+            {
+                "idx": 27,
+                "uid": "2692796710804508396",
+                "type": "SupportBackpackType_BulletDrone_Backpack"
+            },
+            {
+                "idx": 28,
+                "uid": "16756305030629006721",
+                "type": "16756305030629006721"
+            },
+            {
+                "idx": 29,
+                "uid": "12653822188347841538",
+                "type": "SupportBackpackType_LaserDrone_Backpack"
+            },
+            {
+                "idx": 30,
+                "uid": "1353568197974522460",
+                "type": "SupportBackpackType_PersonalBubbleShield"
+            },
+            {
+                "idx": 31,
+                "uid": "10287068634025973658",
+                "type": "SupportWeaponType_SpearLauncher_Backpack"
+            },
+            {
+                "idx": 32,
+                "uid": "3870192466842195264",
+                "type": "3870192466842195264"
+            },
+            {
+                "idx": 33,
+                "uid": "13330286337704337139",
+                "type": "SupportWeaponType_WASPLauncher_Backpack"
+            },
+            {
+                "idx": 34,
+                "uid": "14019044913798069754",
+                "type": "SupportBackpackType_ArcDrone_Backpack"
+            },
+            {
+                "idx": 35,
+                "uid": "4894036464529596640",
+                "type": "SupportBackpackType_CrematorBackpack"
+            },
+            {
+                "idx": 36,
+                "uid": "6829725667368330959",
+                "type": "SupportBackpackType_Hoverpack"
+            },
+            {
+                "idx": 37,
+                "uid": "6468799106264970105",
+                "type": "SupportBackpackType_Jumppack"
+            },
+            {
+                "idx": 38,
+                "uid": "744753118896166941",
+                "type": "SupportBackpackType_MedicBackpack"
+            },
+            {
+                "idx": 39,
+                "uid": "391216982669554238",
+                "type": "SupportBackpackType_MaxigunBackpack"
+            },
+            {
+                "idx": 40,
+                "uid": "10871626090290489728",
+                "type": "SupportBackpackType_RecoillessRifle_Backpack_MK2"
+            },
+            {
+                "idx": 41,
+                "uid": "1945762457460294290",
+                "type": "SupportBackpackType_RecoillessRifle_Backpack"
+            },
+            {
+                "idx": 42,
+                "uid": "669328475908342564",
+                "type": "SupportWeaponType_ApexSniperRifleBackpack"
+            },
+            {
+                "idx": 43,
+                "uid": "6863144698475545939",
+                "type": "SupportWeaponType_BreachingHammer"
+            },
+            {
+                "idx": 44,
+                "uid": "16408494556715988068",
+                "type": "MeleeWeaponType_StunLance"
+            },
+            {
+                "idx": 45,
+                "uid": "16743928489815142323",
+                "type": "SupportWeaponType_EntrenchmentTool_Derelict"
+            },
+            {
+                "idx": 46,
+                "uid": "9088112410931658315",
+                "type": "MeleeWeaponType_EntrenchmentTool"
+            },
+            {
+                "idx": 47,
+                "uid": "6160539022825437465",
+                "type": "6160539022825437465"
+            },
+            {
+                "idx": 48,
+                "uid": "31037231052968958",
+                "type": "PrimaryWeaponType_Evictor"
+            },
+            {
+                "idx": 49,
+                "uid": "4749824949454633632",
+                "type": "PrimaryWeaponType_Punisher"
+            },
+            {
+                "idx": 50,
+                "uid": "13601459612566041022",
+                "type": "PrimaryWeaponType_PunisherFireOfLiberty"
+            },
+            {
+                "idx": 51,
+                "uid": "5725374950499373869",
+                "type": "PrimaryWeaponType_Slugger"
+            },
+            {
+                "idx": 52,
+                "uid": "5634296840427219794",
+                "type": "PrimaryWeaponType_HaltShotgun"
+            },
+            {
+                "idx": 53,
+                "uid": "15214248472323070124",
+                "type": "PrimaryWeaponType_Cookout"
+            },
+            {
+                "idx": 54,
+                "uid": "421324886246020354",
+                "type": "PrimaryWeaponType_PlasmaPunisher"
+            },
+            {
+                "idx": 55,
+                "uid": "15911719089517557690",
+                "type": "PrimaryWeaponType_SweeperShotgun"
+            },
+            {
+                "idx": 56,
+                "uid": "8221051007693717489",
+                "type": "PrimaryWeaponType_DoubleFreedomShotgun"
+            },
+            {
+                "idx": 57,
+                "uid": "10438714418406872918",
+                "type": "PrimaryWeaponType_M90AShotgun"
+            },
+            {
+                "idx": 58,
+                "uid": "10768610637301609307",
+                "type": "PrimaryWeaponType_Knight"
+            },
+            {
+                "idx": 59,
+                "uid": "9957594915860537321",
+                "type": "PrimaryWeaponType_Stoker"
+            },
+            {
+                "idx": 60,
+                "uid": "5450511615252257986",
+                "type": "PrimaryWeaponType_StA11"
+            },
+            {
+                "idx": 61,
+                "uid": "13722729806569931406",
+                "type": "PrimaryWeaponType_M7SSMG"
+            },
+            {
+                "idx": 62,
+                "uid": "10717884433990741653",
+                "type": "PrimaryWeaponType_Reprimand"
+            },
+            {
+                "idx": 63,
+                "uid": "1760530725124205338",
+                "type": "PrimaryWeaponType_Gallant"
+            },
+            {
+                "idx": 64,
+                "uid": "3460488074252222302",
+                "type": "PrimaryWeaponType_PlasmaSniper"
+            },
+            {
+                "idx": 65,
+                "uid": "17983663411446975103",
+                "type": "PrimaryWeaponType_VariableShotgun"
+            },
+            {
+                "idx": 66,
+                "uid": "14954542309183038509",
+                "type": "SecondaryWeaponType_Warrant"
+            },
+            {
+                "idx": 67,
+                "uid": "1501339492476700580",
+                "type": "SecondaryWeaponType_MissilePistol"
+            },
+            {
+                "idx": 68,
+                "uid": "424716889947522210",
+                "type": "SecondaryWeaponType_Peacemaker"
+            },
+            {
+                "idx": 69,
+                "uid": "15470422196992643923",
+                "type": "SecondaryWeaponType_StimPistol"
+            },
+            {
+                "idx": 70,
+                "uid": "10246353889697054562",
+                "type": "ThrowableType_AntiTankSeeker"
+            },
+            {
+                "idx": 71,
+                "uid": "2983879645414043401",
+                "type": "ThrowableType_CaltropsGrenade"
+            },
+            {
+                "idx": 72,
+                "uid": "530045626612387909",
+                "type": "ThrowableType_PineappleGrenade"
+            },
+            {
+                "idx": 73,
+                "uid": "1456507421651509424",
+                "type": "ThrowableType_Dynamite"
+            },
+            {
+                "idx": 74,
+                "uid": "1989119436006646583",
+                "type": "ThrowableType_PocketShield"
+            },
+            {
+                "idx": 75,
+                "uid": "36176771630602099",
+                "type": "ThrowableType_StunGrenade"
+            },
+            {
+                "idx": 76,
+                "uid": "5542218890398374779",
+                "type": "ThrowableType_FragGrenade"
+            },
+            {
+                "idx": 77,
+                "uid": "294590291936179579",
+                "type": "ThrowableType_GasGrenade"
+            },
+            {
+                "idx": 78,
+                "uid": "7715225218085078398",
+                "type": "ThrowableType_HighExplosiveGrenade"
+            },
+            {
+                "idx": 79,
+                "uid": "316723890334202692",
+                "type": "ThrowableType_IncendiaryGrenade"
+            },
+            {
+                "idx": 80,
+                "uid": "10168990792011931162",
+                "type": "ThrowableType_UnknownStickyGrenade"
+            },
+            {
+                "idx": 81,
+                "uid": "11675163230052555240",
+                "type": "ThrowableType_LureMine"
+            },
+            {
+                "idx": 82,
+                "uid": "17171117602208659444",
+                "type": "ThrowableType_MeltaMine"
+            },
+            {
+                "idx": 83,
+                "uid": "3258790968645519416",
+                "type": "ThrowableType_SeekerGrenade"
+            },
+            {
+                "idx": 84,
+                "uid": "6766936627846269706",
+                "type": "ThrowableType_SmokeGrenade"
+            },
+            {
+                "idx": 85,
+                "uid": "14249494547947571097",
+                "type": "ThrowableType_ThermiteGrenade"
+            },
+            {
+                "idx": 86,
+                "uid": "4587284938949573643",
+                "type": "ThrowableType_UrchinThermiteGrenade"
+            },
+            {
+                "idx": 87,
+                "uid": "17848709375785648310",
+                "type": "ThrowableType_ThrowingKnife"
+            },
+            {
+                "idx": 88,
+                "uid": "284602740380634958",
+                "type": "ThrowableType_PyrotechGrenade"
+            },
+            {
+                "idx": 89,
+                "uid": "5910727434981086692",
+                "type": "SupportWeaponType_BreakActionShotgun"
+            },
+            {
+                "idx": 90,
+                "uid": "11432560202897483622",
+                "type": "PickupType_LarvaContainer"
+            },
+            {
+                "idx": 91,
+                "uid": "518600486455451088",
+                "type": "SupportBackpackType_DarkFluidJumppack"
+            },
+            {
+                "idx": 92,
+                "uid": "3973443609256024694",
+                "type": "SupportWeaponType_TacticalVideoCamera"
+            },
+            {
+                "idx": 93,
+                "uid": "4894393506576860267",
+                "type": "4894393506576860267"
+            },
+            {
+                "idx": 94,
+                "uid": "5905641205788913469",
+                "type": "SupportWeaponType_C4Detonator"
+            },
+            {
+                "idx": 95,
+                "uid": "18219495801425257306",
+                "type": "MeleeWeaponType_Saber"
+            },
+            {
+                "idx": 96,
+                "uid": "13784670920243131812",
+                "type": "SupportWeaponType_DefoliationTool"
+            },
+            {
+                "idx": 97,
+                "uid": "5966635890313573271",
+                "type": "MeleeWeaponType_RiotBaton"
+            },
+            {
+                "idx": 98,
+                "uid": "12750169196543686872",
+                "type": "SupportWeaponType_OneTrueFlag"
+            },
+            {
+                "idx": 99,
+                "uid": "8467154841892407376",
+                "type": "MeleeWeaponType_Tomahawk"
+            },
+            {
+                "idx": 100,
+                "uid": "8731737688384722662",
+                "type": "MeleeWeaponType_Machete"
+            },
+            {
+                "idx": 101,
+                "uid": "3371451580584923919",
+                "type": "3371451580584923919"
+            },
+            {
+                "idx": 102,
+                "uid": "535319041333920260",
+                "type": "PrimaryWeaponType_ArcShotgun"
+            },
+            {
+                "idx": 103,
+                "uid": "10845250369047350884",
+                "type": "PrimaryWeaponType_StandardLiberator"
+            },
+            {
+                "idx": 104,
+                "uid": "4885016034561106550",
+                "type": "PrimaryWeaponType_LiberatorPenetrator"
+            },
+            {
+                "idx": 105,
+                "uid": "14942687850090605537",
+                "type": "PrimaryWeaponType_LiberatorConcussive"
+            },
+            {
+                "idx": 106,
+                "uid": "12201875276601049603",
+                "type": "PrimaryWeaponType_OneTwo_Rifle"
+            },
+            {
+                "idx": 107,
+                "uid": "14840077516977962372",
+                "type": "PrimaryWeaponType_StA52"
+            },
+            {
+                "idx": 108,
+                "uid": "13558475039457634667",
+                "type": "PrimaryWeaponType_PacifierRifle"
+            },
+            {
+                "idx": 109,
+                "uid": "9526594500243002157",
+                "type": "PrimaryWeaponType_Coyote"
+            },
+            {
+                "idx": 110,
+                "uid": "13261220132843116788",
+                "type": "PrimaryWeaponType_LiberatorLegacy"
+            },
+            {
+                "idx": 111,
+                "uid": "5601762105466289171",
+                "type": "PrimaryWeaponType_AssaultRifleMA5C"
+            },
+            {
+                "idx": 112,
+                "uid": "12100643055971655455",
+                "type": "PrimaryWeaponType_LiberatorCarbine"
+            },
+            {
+                "idx": 113,
+                "uid": "14845617694460717074",
+                "type": "PrimaryWeaponType_Tenderizer"
+            },
+            {
+                "idx": 114,
+                "uid": "12153278833391482546",
+                "type": "PrimaryWeaponType_Arbitrator"
+            },
+            {
+                "idx": 115,
+                "uid": "8110598756017148880",
+                "type": "PrimaryWeaponType_Suppressor"
+            },
+            {
+                "idx": 116,
+                "uid": "5050852199397921576",
+                "type": "PrimaryWeaponType_StandardBreaker"
+            },
+            {
+                "idx": 117,
+                "uid": "6826025955225526457",
+                "type": "PrimaryWeaponType_SprayAndPrayBreaker"
+            },
+            {
+                "idx": 118,
+                "uid": "13918995818598980231",
+                "type": "PrimaryWeaponType_IncendiaryBreaker"
+            },
+            {
+                "idx": 119,
+                "uid": "6912088101323449320",
+                "type": "PrimaryWeaponType_Adjudicator"
+            },
+            {
+                "idx": 120,
+                "uid": "1117846648694268261",
+                "type": "PrimaryWeaponType_Amendment"
+            },
+            {
+                "idx": 121,
+                "uid": "8896268509512551590",
+                "type": "PrimaryWeaponType_Constitution"
+            },
+            {
+                "idx": 122,
+                "uid": "4752105698603780953",
+                "type": "PrimaryWeaponType_Sightliner"
+            },
+            {
+                "idx": 123,
+                "uid": "17623191861664038783",
+                "type": "PrimaryWeaponType_ExplodingCrossbow"
+            },
+            {
+                "idx": 124,
+                "uid": "5742363029208942635",
+                "type": "PrimaryWeaponType_Torcher"
+            },
+            {
+                "idx": 125,
+                "uid": "9291384900638350902",
+                "type": "PrimaryWeaponType_Dominator"
+            },
+            {
+                "idx": 126,
+                "uid": "13164006426448262783",
+                "type": "PrimaryWeaponType_Eruptor"
+            },
+            {
+                "idx": 127,
+                "uid": "2877271129141764950",
+                "type": "PrimaryWeaponType_Scythe"
+            },
+            {
+                "idx": 128,
+                "uid": "9093125700741019976",
+                "type": "PrimaryWeaponType_Shear"
+            },
+            {
+                "idx": 129,
+                "uid": "9675404802175538082",
+                "type": "PrimaryWeaponType_Sickle"
+            },
+            {
+                "idx": 130,
+                "uid": "2980234130573201393",
+                "type": "PrimaryWeaponType_DoubleEdgeSickle"
+            },
+            {
+                "idx": 131,
+                "uid": "4361428863637469552",
+                "type": "PrimaryWeaponType_Trident"
+            },
+            {
+                "idx": 132,
+                "uid": "14438355057613758791",
+                "type": "PrimaryWeaponType_LaserSMG_Sai"
+            },
+            {
+                "idx": 133,
+                "uid": "16634382492500136054",
+                "type": "PrimaryWeaponType_Deadeye"
+            },
+            {
+                "idx": 134,
+                "uid": "12008625947668001407",
+                "type": "SupportWeaponType_LightMachineGun"
+            },
+            {
+                "idx": 135,
+                "uid": "16535356726426036192",
+                "type": "PrimaryWeaponType_Hyena"
+            },
+            {
+                "idx": 136,
+                "uid": "17308323378831780460",
+                "type": "PrimaryWeaponType_Censor"
+            },
+            {
+                "idx": 137,
+                "uid": "1926414056943231889",
+                "type": "PrimaryWeaponType_HotShot_MarksmanRifle"
+            },
+            {
+                "idx": 138,
+                "uid": "281046277510948131",
+                "type": "PrimaryWeaponType_StandardDiligence"
+            },
+            {
+                "idx": 139,
+                "uid": "5510267968365085927",
+                "type": "PrimaryWeaponType_CounterSniperDiligence"
+            },
+            {
+                "idx": 140,
+                "uid": "5641428405267160100",
+                "type": "PrimaryWeaponType_Defender"
+            },
+            {
+                "idx": 141,
+                "uid": "578623101395158887",
+                "type": "PrimaryWeaponType_Pummeler"
+            },
+            {
+                "idx": 142,
+                "uid": "5731472083741485993",
+                "type": "UnknownType_Unknown_PhysGun"
+            },
+            {
+                "idx": 143,
+                "uid": "17196401230144941076",
+                "type": "PrimaryWeaponType_Scorcher"
+            },
+            {
+                "idx": 144,
+                "uid": "18102809172282470538",
+                "type": "PrimaryWeaponType_Purifier"
+            },
+            {
+                "idx": 145,
+                "uid": "3109983482551492476",
+                "type": "SecondaryWeaponType_Bushwhacker"
+            },
+            {
+                "idx": 146,
+                "uid": "3852172782311805734",
+                "type": "SecondaryWeaponType_Redeemer"
+            },
+            {
+                "idx": 147,
+                "uid": "830958149412624616",
+                "type": "SecondaryWeaponType_ReEducator"
+            },
+            {
+                "idx": 148,
+                "uid": "4714430103453754419",
+                "type": "SecondaryWeaponType_LaserRevolver"
+            },
+            {
+                "idx": 149,
+                "uid": "4580928717960105129",
+                "type": "SecondaryWeaponType_Crisper"
+            },
+            {
+                "idx": 150,
+                "uid": "5972955417680186543",
+                "type": "SecondaryWeaponType_GrenadePistol"
+            },
+            {
+                "idx": 151,
+                "uid": "16798240363848969985",
+                "type": "SecondaryWeaponType_Breacher"
+            },
+            {
+                "idx": 152,
+                "uid": "8864800879179811976",
+                "type": "SecondaryWeaponType_Dagger"
+            },
+            {
+                "idx": 153,
+                "uid": "179559337717557904",
+                "type": "SecondaryWeaponType_Mist"
+            },
+            {
+                "idx": 154,
+                "uid": "1892480894983787169",
+                "type": "SecondaryWeaponType_Verdict"
+            },
+            {
+                "idx": 155,
+                "uid": "14375697644675127823",
+                "type": "SecondaryWeaponType_VetoPistol"
+            },
+            {
+                "idx": 156,
+                "uid": "11435027044679925718",
+                "type": "SecondaryWeaponType_Ultimatum"
+            },
+            {
+                "idx": 157,
+                "uid": "5573423824998200517",
+                "type": "SecondaryWeaponType_SOCOMPistol"
+            },
+            {
+                "idx": 158,
+                "uid": "15832062961832144321",
+                "type": "SecondaryWeaponType_BoltPistol"
+            },
+            {
+                "idx": 159,
+                "uid": "12279528435724053588",
+                "type": "SecondaryWeaponType_Loyalist"
+            },
+            {
+                "idx": 160,
+                "uid": "10177381595962512386",
+                "type": "SecondaryWeaponType_Senator"
+            },
+            {
+                "idx": 161,
+                "uid": "13682483582340182029",
+                "type": "SecondaryWeaponType_Ombudsman"
+            },
+            {
+                "idx": 162,
+                "uid": "2802369506329449110",
+                "type": "SupportWeaponType_AirburstRocketLauncher"
+            },
+            {
+                "idx": 163,
+                "uid": "10871298989420119782",
+                "type": "SupportWeaponType_ArcThrower"
+            },
+            {
+                "idx": 164,
+                "uid": "12164217308285983839",
+                "type": "SupportWeaponType_Autocannon"
+            },
+            {
+                "idx": 165,
+                "uid": "9854668298113416351",
+                "type": "SupportWeaponType_BFGrenadeLauncher"
+            },
+            {
+                "idx": 166,
+                "uid": "9869105320050739364",
+                "type": "SupportWeaponType_Sterilizer"
+            },
+            {
+                "idx": 167,
+                "uid": "7853371720342307430",
+                "type": "SupportWeaponType_MeltaGun"
+            },
+            {
+                "idx": 168,
+                "uid": "12784766379234794359",
+                "type": "SupportWeaponType_ExpendableMachineGun"
+            },
+            {
+                "idx": 169,
+                "uid": "8509380141312129223",
+                "type": "SupportWeaponType_Leveller"
+            },
+            {
+                "idx": 170,
+                "uid": "12877445900026273694",
+                "type": "SupportWeaponType_ExpendableNapalmLauncher"
+            },
+            {
+                "idx": 171,
+                "uid": "2714034314705433838",
+                "type": "SupportWeaponType_SpearLauncher"
+            },
+            {
+                "idx": 172,
+                "uid": "14733648658679365221",
+                "type": "SupportWeaponType_WASPLauncher"
+            },
+            {
+                "idx": 173,
+                "uid": "4155583896232633279",
+                "type": "SupportWeaponType_Flamethrower"
+            },
+            {
+                "idx": 174,
+                "uid": "211331680192206384",
+                "type": "SupportWeaponType_GrenadeLauncher"
+            },
+            {
+                "idx": 175,
+                "uid": "18319281757224320923",
+                "type": "SupportWeaponType_DescalatorGrenadeLauncher"
+            },
+            {
+                "idx": 176,
+                "uid": "4046732776742447255",
+                "type": "SupportWeaponType_Speargun"
+            },
+            {
+                "idx": 177,
+                "uid": "8694225878611593109",
+                "type": "SupportWeaponType_Cremator"
+            },
+            {
+                "idx": 178,
+                "uid": "2401215835282261016",
+                "type": "SupportWeaponType_HeavyMachineGun"
+            },
+            {
+                "idx": 179,
+                "uid": "15369542005276747891",
+                "type": "SupportWeaponType_LaserCannon"
+            },
+            {
+                "idx": 180,
+                "uid": "6453678319562593995",
+                "type": "SupportWeaponType_CommandoRocketLauncher"
+            },
+            {
+                "idx": 181,
+                "uid": "3865797767236207742",
+                "type": "SupportWeaponType_QuasarPulseCannon"
+            },
+            {
+                "idx": 182,
+                "uid": "8347508405287998274",
+                "type": "SupportWeaponType_NovaSniperRifle"
+            },
+            {
+                "idx": 183,
+                "uid": "9264801226655597011",
+                "type": "SupportWeaponType_ExpendableAntiTank"
+            },
+            {
+                "idx": 184,
+                "uid": "1279722939363854678",
+                "type": "SupportWeaponType_MachineGun"
+            },
+            {
+                "idx": 185,
+                "uid": "4874456896233937276",
+                "type": "SupportWeaponType_Maxigun"
+            },
+            {
+                "idx": 186,
+                "uid": "18163938711866866090",
+                "type": "SupportWeaponType_MiniMissileSilo_Remote"
+            },
+            {
+                "idx": 187,
+                "uid": "16777584932715761236",
+                "type": "SupportWeaponType_EpochPlasmaLauncher"
+            },
+            {
+                "idx": 188,
+                "uid": "3358853937828503136",
+                "type": "SupportWeaponType_Railgun"
+            },
+            {
+                "idx": 189,
+                "uid": "11493422068836852751",
+                "type": "SupportWeaponType_RecoillessRifle"
+            },
+            {
+                "idx": 190,
+                "uid": "10266352102081711787",
+                "type": "10266352102081711787"
+            },
+            {
+                "idx": 191,
+                "uid": "9927421484392399367",
+                "type": "SupportWeaponType_AntiMaterielRifle"
+            },
+            {
+                "idx": 192,
+                "uid": "13264489371434957764",
+                "type": "SupportWeaponType_ApexSniperRifle"
+            },
+            {
+                "idx": 193,
+                "uid": "602390376167162446",
+                "type": "VehicleType_HMG_FRV_HeavyMachineGun"
+            },
+            {
+                "idx": 194,
+                "uid": "14772015414747343144",
+                "type": "SupportWeaponType_HeavyMachineGun_MK2"
+            },
+            {
+                "idx": 195,
+                "uid": "4920324387701779176",
+                "type": "VehicleType_Incinerator_FRV_Flamethrower"
+            },
+            {
+                "idx": 196,
+                "uid": "12984499893943104780",
+                "type": "SupportWeaponType_LightMachineGun_MK3"
+            },
+            {
+                "idx": 197,
+                "uid": "13357795631455978434",
+                "type": "SupportWeaponType_LightMachineGun_APC_MK4"
+            },
+            {
+                "idx": 198,
+                "uid": "15365965494753326077",
+                "type": "SupportWeaponType_LightMachineGun_APC_MK5"
+            }
+        ]
+    }
+}

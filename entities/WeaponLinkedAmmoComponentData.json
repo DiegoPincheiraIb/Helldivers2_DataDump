@@ -1,0 +1,143 @@
+{
+    "WeaponLinkedAmmoComponentData": {
+        "items": [
+            {
+                "unique_id": "11422082462834485122",
+                "uid_name": "VehicleType_Supply_FRV_SupplyBox",
+                "unknown_004": 0,
+                "unknown_008": 0,
+                "unknown_00C": 6,
+                "unknown_010": 0,
+                "unknown_014": 2539754645,
+                "unknown_018": 3778614046,
+                "unknown_01C": 0,
+                "unknown_020": 1,
+                "unknown_024": 11,
+                "unknown_02C": 0,
+                "unknown_030": 3778614046
+            },
+            {
+                "unique_id": "11240016882397388584",
+                "uid_name": "11240016882397388584",
+                "unknown_004": 0,
+                "unknown_008": 2,
+                "unknown_00C": 6,
+                "unknown_010": 0,
+                "unknown_014": 0,
+                "unknown_018": 3778614046,
+                "unknown_01C": 0,
+                "unknown_020": 0,
+                "unknown_024": 0,
+                "unknown_02C": 0,
+                "unknown_030": 3778614046
+            },
+            {
+                "unique_id": "18425528956672743905",
+                "uid_name": "SuperEarthType_SEAF_Artillery",
+                "unknown_004": 0,
+                "unknown_008": 2,
+                "unknown_00C": 6,
+                "unknown_010": 0,
+                "unknown_014": 0,
+                "unknown_018": 3778614046,
+                "unknown_01C": 0,
+                "unknown_020": 0,
+                "unknown_024": 0,
+                "unknown_02C": 0,
+                "unknown_030": 3778614046
+            },
+            {
+                "unique_id": "9854668298113416351",
+                "uid_name": "SupportWeaponType_BFGrenadeLauncher",
+                "unknown_004": 2048,
+                "unknown_008": 1,
+                "unknown_00C": 6,
+                "unknown_010": 0,
+                "unknown_014": 0,
+                "unknown_018": 3778614046,
+                "unknown_01C": 955461271,
+                "unknown_020": 0,
+                "unknown_024": 0,
+                "unknown_02C": 0,
+                "unknown_030": 3778614046
+            },
+            {
+                "unique_id": "8694225878611593109",
+                "uid_name": "SupportWeaponType_Cremator",
+                "unknown_004": 1024,
+                "unknown_008": 1,
+                "unknown_00C": 6,
+                "unknown_010": 955461271,
+                "unknown_014": 0,
+                "unknown_018": 3778614046,
+                "unknown_01C": 0,
+                "unknown_020": 1,
+                "unknown_024": 1,
+                "unknown_02C": 1907619785,
+                "unknown_030": 3778614046
+            },
+            {
+                "unique_id": "4874456896233937276",
+                "uid_name": "SupportWeaponType_Maxigun",
+                "unknown_004": 256,
+                "unknown_008": 1,
+                "unknown_00C": 6,
+                "unknown_010": 0,
+                "unknown_014": 0,
+                "unknown_018": 3778614046,
+                "unknown_01C": 0,
+                "unknown_020": 0,
+                "unknown_024": 0,
+                "unknown_02C": 0,
+                "unknown_030": 3778614046
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "unknown_004": 0,
+                "unknown_008": 1,
+                "unknown_00C": 6,
+                "unknown_010": 0,
+                "unknown_014": 0,
+                "unknown_018": 3778614046,
+                "unknown_01C": 0,
+                "unknown_020": 0,
+                "unknown_024": 0,
+                "unknown_02C": 0,
+                "unknown_030": 3778614046
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "11422082462834485122",
+                "type": "VehicleType_Supply_FRV_SupplyBox"
+            },
+            {
+                "idx": 1,
+                "uid": "11240016882397388584",
+                "type": "11240016882397388584"
+            },
+            {
+                "idx": 2,
+                "uid": "18425528956672743905",
+                "type": "SuperEarthType_SEAF_Artillery"
+            },
+            {
+                "idx": 3,
+                "uid": "9854668298113416351",
+                "type": "SupportWeaponType_BFGrenadeLauncher"
+            },
+            {
+                "idx": 4,
+                "uid": "8694225878611593109",
+                "type": "SupportWeaponType_Cremator"
+            },
+            {
+                "idx": 5,
+                "uid": "4874456896233937276",
+                "type": "SupportWeaponType_Maxigun"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "ChainsawComponentData": {
+        "items": [
+            {
+                "unique_id": "13784670920243131812",
+                "uid_name": "SupportWeaponType_DefoliationTool",
+                "unknown_004": 0.5,
+                "unknown_008": 3566677815,
+                "unknown_00C": 0.5,
+                "unknown_010": 1.0,
+                "unknown_014": 404995238,
+                "unknown_078": 601659426,
+                "unknown_07C": 2804906278
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "13784670920243131812",
+                "type": "SupportWeaponType_DefoliationTool"
+            }
+        ]
+    }
+}

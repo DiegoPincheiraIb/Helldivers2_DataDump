@@ -1,0 +1,363 @@
+{
+    "BackpackComponentData": {
+        "items": [
+            {
+                "unique_id": "9738700126984703622",
+                "uid_name": "9738700126984703622",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "16671435828232852140",
+                "uid_name": "SupportWeaponType_AirburstRocketLauncherBackpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "5690760409550920280",
+                "uid_name": "SupportBackpackType_SupplyBackpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "16576307969206587212",
+                "uid_name": "SupportWeaponType_AutocannonBackpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "2791632565401924213",
+                "uid_name": "2791632565401924213",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "10844335154607830587",
+                "uid_name": "SupportBackpackType_BallisticShield",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "17709977744562302112",
+                "uid_name": "17709977744562302112",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "6889076721164976792",
+                "uid_name": "6889076721164976792",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "13495904577777136893",
+                "uid_name": "SupportBackpackType_BFGrenadeLauncherBackpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "11155000903228636302",
+                "uid_name": "SupportBackpackType_PortableHellbomb",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "3033447149328295793",
+                "uid_name": "SupportWeaponType_C4Backpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "11882632134944470026",
+                "uid_name": "SupportBackpackType_DirectionalShield_Relay",
+                "unknown_000": 0
+            },
+            {
+                "unique_id": "13012964727571811944",
+                "uid_name": "SupportBackpackType_Warppack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "3464783698532994381",
+                "uid_name": "SupportBackpackType_FlameDrone_Backpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "13834130950471716570",
+                "uid_name": "SupportBackpackType_CausticDrone_Backpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "16125342225783174778",
+                "uid_name": "16125342225783174778",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "2692796710804508396",
+                "uid_name": "SupportBackpackType_BulletDrone_Backpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "16756305030629006721",
+                "uid_name": "16756305030629006721",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "12653822188347841538",
+                "uid_name": "SupportBackpackType_LaserDrone_Backpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "1353568197974522460",
+                "uid_name": "SupportBackpackType_PersonalBubbleShield",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "10287068634025973658",
+                "uid_name": "SupportWeaponType_SpearLauncher_Backpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "3870192466842195264",
+                "uid_name": "3870192466842195264",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "13330286337704337139",
+                "uid_name": "SupportWeaponType_WASPLauncher_Backpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "14019044913798069754",
+                "uid_name": "SupportBackpackType_ArcDrone_Backpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "4894036464529596640",
+                "uid_name": "SupportBackpackType_CrematorBackpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "6829725667368330959",
+                "uid_name": "SupportBackpackType_Hoverpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "6468799106264970105",
+                "uid_name": "SupportBackpackType_Jumppack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "744753118896166941",
+                "uid_name": "SupportBackpackType_MedicBackpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "391216982669554238",
+                "uid_name": "SupportBackpackType_MaxigunBackpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "10871626090290489728",
+                "uid_name": "SupportBackpackType_RecoillessRifle_Backpack_MK2",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "1945762457460294290",
+                "uid_name": "SupportBackpackType_RecoillessRifle_Backpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "669328475908342564",
+                "uid_name": "SupportWeaponType_ApexSniperRifleBackpack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "11432560202897483622",
+                "uid_name": "PickupType_LarvaContainer",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "518600486455451088",
+                "uid_name": "SupportBackpackType_DarkFluidJumppack",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": "4894393506576860267",
+                "uid_name": "4894393506576860267",
+                "unknown_000": 1
+            },
+            {
+                "unique_id": null,
+                "uid_name": null,
+                "unknown_000": 0
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "9738700126984703622",
+                "type": "9738700126984703622"
+            },
+            {
+                "idx": 1,
+                "uid": "16671435828232852140",
+                "type": "SupportWeaponType_AirburstRocketLauncherBackpack"
+            },
+            {
+                "idx": 2,
+                "uid": "5690760409550920280",
+                "type": "SupportBackpackType_SupplyBackpack"
+            },
+            {
+                "idx": 3,
+                "uid": "16576307969206587212",
+                "type": "SupportWeaponType_AutocannonBackpack"
+            },
+            {
+                "idx": 4,
+                "uid": "2791632565401924213",
+                "type": "2791632565401924213"
+            },
+            {
+                "idx": 5,
+                "uid": "10844335154607830587",
+                "type": "SupportBackpackType_BallisticShield"
+            },
+            {
+                "idx": 6,
+                "uid": "17709977744562302112",
+                "type": "17709977744562302112"
+            },
+            {
+                "idx": 7,
+                "uid": "6889076721164976792",
+                "type": "6889076721164976792"
+            },
+            {
+                "idx": 8,
+                "uid": "13495904577777136893",
+                "type": "SupportBackpackType_BFGrenadeLauncherBackpack"
+            },
+            {
+                "idx": 9,
+                "uid": "11155000903228636302",
+                "type": "SupportBackpackType_PortableHellbomb"
+            },
+            {
+                "idx": 10,
+                "uid": "3033447149328295793",
+                "type": "SupportWeaponType_C4Backpack"
+            },
+            {
+                "idx": 11,
+                "uid": "11882632134944470026",
+                "type": "SupportBackpackType_DirectionalShield_Relay"
+            },
+            {
+                "idx": 12,
+                "uid": "13012964727571811944",
+                "type": "SupportBackpackType_Warppack"
+            },
+            {
+                "idx": 13,
+                "uid": "3464783698532994381",
+                "type": "SupportBackpackType_FlameDrone_Backpack"
+            },
+            {
+                "idx": 14,
+                "uid": "13834130950471716570",
+                "type": "SupportBackpackType_CausticDrone_Backpack"
+            },
+            {
+                "idx": 15,
+                "uid": "16125342225783174778",
+                "type": "16125342225783174778"
+            },
+            {
+                "idx": 16,
+                "uid": "2692796710804508396",
+                "type": "SupportBackpackType_BulletDrone_Backpack"
+            },
+            {
+                "idx": 17,
+                "uid": "16756305030629006721",
+                "type": "16756305030629006721"
+            },
+            {
+                "idx": 18,
+                "uid": "12653822188347841538",
+                "type": "SupportBackpackType_LaserDrone_Backpack"
+            },
+            {
+                "idx": 19,
+                "uid": "1353568197974522460",
+                "type": "SupportBackpackType_PersonalBubbleShield"
+            },
+            {
+                "idx": 20,
+                "uid": "10287068634025973658",
+                "type": "SupportWeaponType_SpearLauncher_Backpack"
+            },
+            {
+                "idx": 21,
+                "uid": "3870192466842195264",
+                "type": "3870192466842195264"
+            },
+            {
+                "idx": 22,
+                "uid": "13330286337704337139",
+                "type": "SupportWeaponType_WASPLauncher_Backpack"
+            },
+            {
+                "idx": 23,
+                "uid": "14019044913798069754",
+                "type": "SupportBackpackType_ArcDrone_Backpack"
+            },
+            {
+                "idx": 24,
+                "uid": "4894036464529596640",
+                "type": "SupportBackpackType_CrematorBackpack"
+            },
+            {
+                "idx": 25,
+                "uid": "6829725667368330959",
+                "type": "SupportBackpackType_Hoverpack"
+            },
+            {
+                "idx": 26,
+                "uid": "6468799106264970105",
+                "type": "SupportBackpackType_Jumppack"
+            },
+            {
+                "idx": 27,
+                "uid": "744753118896166941",
+                "type": "SupportBackpackType_MedicBackpack"
+            },
+            {
+                "idx": 28,
+                "uid": "391216982669554238",
+                "type": "SupportBackpackType_MaxigunBackpack"
+            },
+            {
+                "idx": 29,
+                "uid": "10871626090290489728",
+                "type": "SupportBackpackType_RecoillessRifle_Backpack_MK2"
+            },
+            {
+                "idx": 30,
+                "uid": "1945762457460294290",
+                "type": "SupportBackpackType_RecoillessRifle_Backpack"
+            },
+            {
+                "idx": 31,
+                "uid": "669328475908342564",
+                "type": "SupportWeaponType_ApexSniperRifleBackpack"
+            },
+            {
+                "idx": 32,
+                "uid": "11432560202897483622",
+                "type": "PickupType_LarvaContainer"
+            },
+            {
+                "idx": 33,
+                "uid": "518600486455451088",
+                "type": "SupportBackpackType_DarkFluidJumppack"
+            },
+            {
+                "idx": 34,
+                "uid": "4894393506576860267",
+                "type": "4894393506576860267"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "RandomSlotComponentData": {
+        "items": [
+            {
+                "unique_id": "10811815200209238698",
+                "uid_name": "BugEnemyType_Dragonroach",
+                "unknown_000": 5,
+                "unknown_004": 1947637682
+            },
+            {
+                "unique_id": "10246353889697054562",
+                "uid_name": "ThrowableType_AntiTankSeeker",
+                "unknown_000": 10,
+                "unknown_004": 1410698703
+            },
+            {
+                "unique_id": "3258790968645519416",
+                "uid_name": "ThrowableType_SeekerGrenade",
+                "unknown_000": 10,
+                "unknown_004": 1410698703
+            }
+        ],
+        "index_list": [
+            {
+                "idx": 0,
+                "uid": "10811815200209238698",
+                "type": "BugEnemyType_Dragonroach"
+            },
+            {
+                "idx": 1,
+                "uid": "10246353889697054562",
+                "type": "ThrowableType_AntiTankSeeker"
+            },
+            {
+                "idx": 2,
+                "uid": "3258790968645519416",
+                "type": "ThrowableType_SeekerGrenade"
+            }
+        ]
+    }
+}
